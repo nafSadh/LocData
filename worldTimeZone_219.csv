@@ -1,0 +1,219 @@
+BIT,Baker Island Time,-12
+NUT,Niue Time,-11
+SST,Samoa Standard Time,-11
+CKT,Cook Island Time,-10
+HAST,Hawaii - Aleutian Standard Time,-10
+SDT,Samoa Daylight Time,-10
+TAHT,Tahiti Time,-10
+TKT,Tokelau Time,-10
+AKST,Alaska Standard Time,-9
+GIT,Gambier Island Time,-9
+HADT,Hawaii - Aleutian Daylight Time,-9
+AKDT,Alaska Daylight Time,-8
+CIST,Clipperton Island Standard Time,-8
+PST,Pacific Standard Time,-8
+PST,Pitcairn Standard Time,-8
+MST,Mountain Standard Time,-7
+PDT,Pacific Daylight Time,-7
+CST,Central Standard Time,-6
+EAST,Easter Island Standard Time,-6
+GALT,Galapagos Time,-6
+MDT,Mountain Daylight Time,-6
+PIT,Peter Island Time,-6
+ACT,Acre Time,-5
+CDT,Central Daylight Time,-5
+COT,Colombia Time,-5
+EADT,Easter Island Daylight Time,-5
+ECT,Ecuador Time,-5
+EST,Eastern Standard Time,-5
+PET,Peru Time,-5
+AST,Atlantic Standard Time,-4
+BOT,Bolivia Time,-4
+BWST,Brazil Western Standard Time,-4
+CLST,Chile Standard Time,-4
+EDT,Eastern Daylight Time,-4
+FKST,Falkland Island Standard Time,-4
+GYT,Guyana Time,-4
+JFST,Juan Fernandez Islands Standard Time,-4
+PYT,Paraguay Time,-4
+SLT,San Luis Time,-4
+ADT,Atlantic Daylight Time,-3
+ART,Argentina Time,-3
+BRT,Brazilia Time,-3
+BWDT,Brazil Western Daylight Time,-3
+CGT,Central Greenland Time,-3
+CLDT,Chile Daylight Time,-3
+FKDT,Falkland Island Daylight Time,-3
+GFT,French Guiana Time,-3
+JFDT,Juan Fernandez Islands Daylight Time,-3
+PMST,Pierre & Miquelon Standard Time,-3
+PYST,Paraguay Summer Time,-3
+ROTT,Rothera Time,-3
+SLST,San Luis Summer Time,-3
+SRT,Suriname Time,-3
+UYT,Uruguay Standard Time,-3
+ARDT,Argentina Daylight Time,-2
+BEST,Brazil Eastern Standard Time,-2
+BRST,Brazilia Summer Time,-2
+CGST,Central Greenland Summer Time,-2
+GST,South Georgia and the South Sandwich Islands,-2
+PMDT,Pierre & Miquelon Daylight Time,-2
+UYST,Uruguay Summer Time,-2
+AZOST,Azores Standard Time,-1
+CVT,Cape Verde Time,-1
+EGT,Eastern Greenland Time,-1
+AZODT,Azores Daylight Time,0
+EGST,Eastern Greenland Summer Time,0
+GMT,Greenwich Meantime,0
+IST,Ireland Standard Time,0
+SLT,Sierra Leone Time,0
+UTC,Universal Coordinated Time,0
+WET,Western Europe Time,0
+BST,British Summer Time,1
+CET,Central Europe Time,1
+IDT,Ireland Daylight Time,1
+WAT,Western Africa Time,1
+WEST,Western Europe Summer Time,1
+CAT,Central Africa Time,2
+CEST,Central Europe Summer Time,2
+EET,Eastern Europe Time,2
+IST,Israel Standard Time,2
+SAST,South Africa Standard Time,2
+SYT,Syrian Standard Time,2
+WAST,Western Africa Summer Time,2
+AST,Al Manamah Standard Time,3
+AST,Arabia Standard Time,3
+AST,Arabic Standard Time,3
+EAT,East Africa Time,3
+EEST,Eastern Europe Summer Time,3
+IDT,Israel Daylight Time,3
+MSK,Moscow Standard Time,3
+SYST,Syrian Summer Time,3
+ADT,Arabia Daylight Time,4
+AMST,Armenia Standard Time,4
+AZT,Azerbaijan Time,4
+GET,Georgia Standard Time,4
+GST,Gulf Standard Time,4
+ICT,Îles Crozet Time,4
+MSD,Moscow Summer Time,4
+MUT,Mauritius Time,4
+RET,Réunion Time,4
+SAMT,Samara Time,4
+SCT,Seychelles Time,4
+AMDT,Armenia Daylight Time,5
+AZST,Azerbaijan Summer Time,5
+CAST,Chinese Antarctic Standard Time,5
+DAVT,Davis Time,5
+HMT,Heard and McDonald Islands Time,5
+KGT,Kyrgyzstan Time,5
+MAWT,Mawson Time,5
+MVT,Maldives Time,5
+PKT,Pakistan Time,5
+SAMST,Samara Summer Time,5
+TFT,French Southern and Antarctic Time,5
+TJT,Tajikistan Time,5
+TMT,Turkmenistan Time,5
+UZT,Uzbekistan Time,5
+WKST,West Kazakhstan Standard Time,5
+YEKT,Yekaterinburg Time,5
+BIOT,British Indian Ocean Time,6
+BTT,Bhutan Time,6
+EKST,East Kazakhstan Standard Time,6
+KGST,Kyrgyzstan Summer Time,6
+LKT,Sri Lanka Time,6
+NOVT,Novosibirsk Time,6
+OMST,Omsk Standard Time,6
+PKST,Pakistan Summer Time,6
+VOST,Vostok Time,6
+XJT,Xinjiang Standard Time,6
+YEKST,Yekaterinburg Summer Time,6
+BDT,Bangladesh Standard Time,6
+CXT,Christmas Island Time,7
+ICT,Indochina Time,7
+KRAT,Krasnoyarsk Time,7
+KOVT,Khovd Time,7
+NOVST,Novosibirsk Summer Time,7
+OMSK,Omsk Summer Time,7
+WIB,Waktu Indonesia Bagian Barat,7
+AWST,Australian Western Standard Time,8
+BDT,Brunei Time,8
+CST,China Standard Time,8
+HKST,Hong Kong Standard Time,8
+IRKT,Irkutsk Time,8
+KRAST,Krasnoyarsk Summer Time,8
+KOVST,Khovd Summer Time,8
+MBT,Macclesfield Bank Time,8
+MNT,Mongolia Time,8
+MYT,Malaysia Time,8
+PIT,Paracel Islands Time,8
+PIT,Pratas Islands,8
+PST,Philippine Standar Time,8
+SGT,Singapore Time,8
+SIT,Spratly Islands Time,8
+SST,Scarborough Shoal Time,8
+TWT,Taiwan Time,8
+WITA,Waktu Indonesia Bagian Tengah,8
+IRKST,Irkutsk Summer Time,9
+JST,Japan Standard Time,9
+KST,Korea Standard Time,9
+MNST,Mongolia Summer Time,9
+PWT,Palau Time,9
+TPT,East Timor Time,9
+WIT,Waktu Indonesia Bagian Timur,9
+YAKT,Yakutsk Time,9
+AEST,Australian Eastern Standard Time,10
+ChST,Chamorro Standard Time,10
+DTAT,District de Terre Adélie Time,10
+PGT,Papua New Guinea Time,10
+TRUT,Truk Time,10
+VLAT,Vladivostok Time,10
+YAKST,Yakutsk Summer Time,10
+YAPT,Yap Time,10
+AEDT,Australian Eastern Daylight Time,11
+KOST,Kosrae Standard Time,11
+LHDT,Lord Howe Daylight Time,11
+MAGT,Magadan Island Time,11
+NCT,New Caledonia Time,11
+PONT,Pohnpei Standard Time,11
+SBT,Solomon Island Time,11
+VLAST,Vladivostok Summer Time,11
+VUT,Vanuatu Time,11
+ANAT,Anadyr’ Time,12
+FJT,Fiji Time,12
+GILT,Gilbert Island Time,12
+MAGST,Magadan Island Summer Time,12
+MHT,Marshall Islands Time,12
+NRT,Nauru Time,12
+NZST,New Zealand Standard Time,12
+PETT,Petropavlovsk Time,12
+SCST,Santa Claus Standard Time,12
+TVT,Tuvalu Time,12
+WFT,Wallis and Futuna Time,12
+ANAST,Anadyr’ Summer Time,13
+FJDT,Fiji Daylight Time,13
+NZDT,New Zealand Daylight Time,13
+PETST,Petropavlovsk Summer Time,13
+PHOT,Phoenix Island Time,13
+SCDT,Santa Claus Delivery Time,13
+TOT,Tonga Time,13
+LINT,Line Island Time,14
+ACDT,Australian Central Daylight Time,10.5
+LHST,Lord Howe Standard Time,10.5
+NFT,Norfolk Time,11.5
+CHAST,Chatham Island Standard Time,12.75
+CHADT,Chatham Island Daylight Time,13.75
+IRST,Îran Standard Time,3.5
+AFT,Afghanistan Time,4.5
+IRDT,Îran Daylight Time,4.5
+IST,Indian Standard Time,5.5
+NPT,Nepal Time,5.75
+CCT,Cocos Islands Time,6.5
+MMT,Myanmar Time,6.5
+ACIT,Ashmore and Cartier Islands Time,8
+APO,Apo Island Time,8.25
+ACWST,Australian Central Western Standard Time,8.75
+ACST,Australian Central Standard Time,9.5
+NDT,Newfoundland Daylight Time,-2.5
+NST,Newfoundland Standard Time,-3.5
+VST,Venezuela Standard Time,-4.5
+MIT,Marquesas Islands Time,-9.5

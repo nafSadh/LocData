@@ -1,0 +1,135 @@
+BIT ,Baker Island Time ,UTC-12,-12
+SST ,Samoa Standard Time ,UTC-11,-11
+CKT ,Cook Island Time ,UTC-10,-10
+HAST ,Hawaii-Aleutian Standard Time ,UTC-10,-10
+HST ,Hawaii Standard Time ,UTC-10,-10
+TAHT ,Tahiti Time ,UTC-10,-10
+MIT ,Marquesas Islands Time ,UTC-09:30,-9.5
+AKST ,Alaska Standard Time ,UTC-09,-9
+GIT ,Gambier Island Time ,UTC-09,-9
+HADT ,Hawaii-Aleutian Daylight Time ,UTC-09,-9
+AKDT ,Alaska Daylight Time ,UTC-08,-8
+CIST ,Clipperton Island Standard Time ,UTC-08,-8
+PST ,Pacific Standard Time (North America) ,UTC-08,-8
+MST ,Mountain Standard Time (North America) ,UTC-07,-7
+PDT ,Pacific Daylight Time (North America) ,UTC-07,-7
+CST ,Central Standard Time (North America) ,UTC-06,-6
+EAST ,Easter Island Standard Time ,UTC-06,-6
+GALT ,Galapagos Time ,UTC-06,-6
+MDT ,Mountain Daylight Time (North America) ,UTC-06,-6
+COT ,Colombia Time ,UTC-05,-5
+ECT ,Ecuador Time ,UTC-05,-5
+EST ,Eastern Standard Time (North America) ,UTC-05,-5
+CDT ,Central Daylight Time (North America) ,UTC-05,-4.5
+AST ,Atlantic Standard Time ,UTC-04,-4
+BOT ,Bolivia Time ,UTC-04,-4
+CLT ,Chile Standard Time ,UTC-04,-4
+COST ,Colombia Summer Time ,UTC-04,-4
+ECT ,Eastern Caribbean Time ,UTC-04,-4
+EDT ,Eastern Daylight Time (North America) ,UTC-04,-4
+FKT ,Falkland Islands Time ,UTC-04,-4
+GYT ,Guyana Time ,UTC-04,-4
+VET ,Venezuelan Standard Time ,UTC-04:30,-4
+NST ,Newfoundland Standard Time ,UTC-03:30,-3.5
+NT ,Newfoundland Time ,UTC-03:30,-3.5
+ADT ,Atlantic Daylight Time ,UTC-03,-3
+ART ,Argentina Time ,UTC-03,-3
+BRT ,Brasilia Time ,UTC-03,-3
+CLST ,Chile Summer Time ,UTC-03,-3
+FKST ,Falkland Islands Summer Time ,UTC-03,-3
+GFT ,French Guiana Time ,UTC-03,-3
+UYT ,Uruguay Standard Time ,UTC-03,-3
+NDT ,Newfoundland Daylight Time ,UTC-02:30,-2.5
+GST ,South Georgia and the South Sandwich Islands ,UTC-02,-2
+UYST ,Uruguay Summer Time ,UTC-02,-2
+AZOST ,Azores Standard Time ,UTC-01,-1
+CVT ,Cape Verde Time ,UTC-01,-1
+GMT ,Greenwich Mean Time ,UTC,0
+UTC ,Coordinated Universal Time ,UTC,0
+WET ,Western European Time ,UTC,0
+BST ,British Summer Time,UTC+01,1
+CET ,Central European Time ,UTC+01,1
+DFT ,AIX eqv. of CET,UTC+01,1
+IST ,Irish Summer Time ,UTC+01,1
+WAT ,West Africa Time ,UTC+01,1
+WEDT ,Western European Daylight Time ,UTC+01,1
+WEST ,Western European Summer Time ,UTC+01,1
+CAT ,Central Africa Time ,UTC+02,2
+CEDT ,Central European Daylight Time ,UTC+02,2
+CEST ,Central European Summer Time ,UTC+02,2
+EET ,Eastern European Time ,UTC+02,2
+IST ,Israel Standard Time ,UTC+02,2
+SAST ,South African Standard Time ,UTC+02,2
+AST ,"Arab Standard Time (Kuwait, Riyadh) ",UTC+03,3
+AST ,Arabic Standard Time (Baghdad) ,UTC+03,3
+EAT ,East Africa Time ,UTC+03,3
+EEDT ,Eastern European Daylight Time ,UTC+03,3
+EEST ,Eastern European Summer Time ,UTC+03,3
+IDT ,Israeli Daylight Time ,UTC+03,3
+MSK ,Moscow Standard Time ,UTC+03,3
+IRST ,Iran Standard Time ,UTC+03:30,3.5
+AMT ,Armenia Time ,UTC+04,4
+AST ,"Arabian Standard Time (Abu Dhabi, Muscat) ",UTC+04,4
+AZT ,Azerbaijan Time ,UTC+04,4
+GET ,Georgia Standard Time ,UTC+04,4
+GST ,Gulf Standard Time ,UTC+04,4
+MSD ,Moscow Summer Time ,UTC+04,4
+MUT ,Mauritius Time ,UTC+04,4
+RET ,Réunion Time ,UTC+04,4
+SAMT ,Samara Time ,UTC+04,4
+SCT ,Seychelles Time ,UTC+04,4
+AFT ,Afghanistan Time ,UTC+04:30,4.5
+AMST ,Armenia Summer Time ,UTC+05,5
+HMT ,Heard and McDonald Islands Time ,UTC+05,5
+PKT ,Pakistan Standard Time ,UTC+05,5
+YEKT ,Yekaterinburg Time ,UTC+05,5
+IST ,Indian Standard Time ,UTC+05:30,5.5
+SLT ,Sri Lanka Time ,UTC+05:30,5.5
+NPT ,Nepal Time ,UTC+05:45,5.75
+BIOT ,British Indian Ocean Time ,UTC+06,6
+BST ,Bangladesh Standard Time ,UTC+06,6
+BTT ,Bhutan Time ,UTC+06,6
+OMST ,Omsk Time ,UTC+06,6
+CCT ,Cocos Islands Time ,UTC+06:30,6.5
+MST ,Myanmar Standard Time ,UTC+06:30,6.5
+CXT ,Christmas Island Time ,UTC+07,7
+ICT ,Indochina Time ,UTC+07,7
+KRAT ,Krasnoyarsk Time ,UTC+07,7
+THA ,Thailand Standard Time ,UTC+07,7
+ACT ,ASEAN Common Time ,UTC+08,8
+AWST ,Australian Western Standard Time ,UTC+08,8
+BDT ,Brunei Time ,UTC+08,8
+CST ,China Standard Time ,UTC+08,8
+CT ,China Time ,UTC+08,8
+HKT ,Hong Kong Time ,UTC+08,8
+IRKT ,Irkutsk Time ,UTC+08,8
+MST ,Malaysian Standard Time ,UTC+08,8
+MYT ,Malaysia Time ,UTC+08,8
+PST ,Philippine Standard Time ,UTC+08,8
+SGT ,Singapore Time ,UTC+08,8
+SST ,Singapore Standard Time ,UTC+08,8
+WST ,Western Standard Time ,UTC+08,8
+AWDT ,Australian Western Daylight Time ,UTC+09,9
+JST ,Japan Standard Time ,UTC+09,9
+KST ,Korea Standard Time ,UTC+09,9
+YAKT ,Yakutsk Time ,UTC+09,9
+ACST ,Australian Central Standard Time ,UTC+09:30,9.5
+CST ,Central Standard Time (Australia) ,UTC+09:30,9.5
+AEST ,Australian Eastern Standard Time ,UTC+10,10
+CHST ,Chamorro Standard Time ,UTC+10,10
+VLAT ,Vladivostok Time ,UTC+10,10
+ACDT ,Australian Central Daylight Time ,UTC+10:30,10.5
+LHST ,Lord Howe Standard Time ,UTC+10:30,10.5
+AEDT ,Australian Eastern Daylight Time ,UTC+11,11
+MAGT ,Magadan Time ,UTC+11,11
+SBT ,Solomon Islands Time ,UTC+11,11
+NFT ,Norfolk Time[1] ,UTC+11:30,11.5
+FJT ,Fiji Time ,UTC+12,12
+GILT ,Gilbert Island Time ,UTC+12,12
+NZST ,New Zealand Standard Time ,UTC+12,12
+PETT ,Kamchatka Time ,UTC+12,12
+CHAST ,Chatham Standard Time ,UTC+12:45,12.75
+NZDT ,New Zealand Daylight Time ,UTC+13,13
+PHOT ,Phoenix Island Time ,UTC+13,13
+CHADT ,Chatham Daylight Time ,UTC+13:45,13.75
+LINT ,Line Islands Time ,UTC+14,14
