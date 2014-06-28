@@ -1,6 +1,6 @@
 <?php
 
-include_once '../../app/XMLUtil.php';
+include_once 'XMLUtil.php';
 define("LATID", "latitude");
 define("LONGD", "longitude");
 define("ALTID", "altitude");
@@ -206,13 +206,14 @@ function genPlacesLocDataFromCSV($url){
         $explodedLine = explode(',', $line);
 
         $placeNode->setAttribute( "id",  ++$i );
+        if(!array_key_exists(5,$explodedLine)) continue;
         $country = stringUpdate(trim($explodedLine[1]));
         $placeNode->setAttribute( CNTRY, $country );
         //s v2
         $name = stringUpdate(trim($explodedLine[2]));
         //e v2
         //echo $name.PHP_EOL;
-        print_r($explodedLine);
+        //print_r($explodedLine);
         $placeNode->setAttribute( NAME,$name );//v2
         $placeNode->setAttribute( LATID,   trim($explodedLine[3]) );//latitude
         $placeNode->setAttribute( LONGD,   trim($explodedLine[4]) );//longitude
@@ -354,8 +355,6 @@ function genArrayFromXML($endline) {
             $longd = $place->getAttribute(LONGD);
             $alttd = $place->getAttribute(ALTID);
             $CityLocData.=/*$i." | $country -> ".*/"['$name',$lattd,$longd,$alttd],".$endline;
-//            echo $country." prev:".$prevContry." )) ";
-//            echo $place->getAttribute(NAME).PHP_EOL;
             if ($country != $prevContry) {
                 if ("" != $prevContry) {
                     $ccEnd = $i-1;
@@ -368,10 +367,10 @@ function genArrayFromXML($endline) {
             }
         }
     }
-    $ccEnd = $i;$ccCount = $ccStart-$ccEnd+1;
-    $CountryMap.= "['$prevContry',$ccStart,$ccEnd]//$ccCount\n";
+    $ccEnd = $i;
+    $CountryMap.= "['$prevContry',$ccStart,$ccEnd]\n";
     echo $CountryMap;
-    echo "\n\n@".$numberOfCountries;
+    echo "\n\n@".$numberOfCountries.":".$i;
 
     echo  "\n\n".$CityLocData.PHP_EOL;
 }

@@ -9,5 +9,5 @@ set_time_limit(900);
 genPlacesLocDataFromCSV("World_Cities_Location_table_sorted.csv");
 genArrayFromXML("");
 //genWorldTimeZoneArrayFromFile("worldTimeZone.csv");
- echo "?";
+ echo "done";
 ?>
