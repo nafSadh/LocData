@@ -248,7 +248,7 @@ function genPlacesLocDataFromCSV($url){
     $placeLDxml->appendChild($root);
 //    $placeLDxml->normalizeDocument();
 //    echo $placeLDxml->saveXML();
-    $placeLDxml->save("places-location-data1.workcopy.xml");
+    $placeLDxml->save("places-location-data.xml");
 }
 
 function genMajorCitiesFromCSV($url){
@@ -330,8 +330,7 @@ function genWorldTimeZoneArrayFromFile($url) {
 
 function genArrayFromXML($endline) {
     $xDoc = new DOMDocument();
-//    $xDoc->load("places-location-data1.workcopy.xml");
-    $xDoc->load("places-location-data1.workcopy.xml");
+    $xDoc->load("places-location-data.xml");
     $xPath = new DOMXPath($xDoc);
     $placesTree = $xDoc->getElementsByTagName('place');
 
