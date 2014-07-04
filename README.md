@@ -5,13 +5,16 @@ Location Data (longitude and latitude) of ten thousand cities of 160 countries.
 
 About some Files
 ----------------
-* World_Cities_Location_table_sorted.csv - a csv file with country and city names
-along with longitude, latitude and altitude of that city 
-* places-location-data.xml - an XML document with places data
+* [places.csv](https://github.com/nafSadh/places.coord/blob/master/places.csv) 
+- a csv file with country and city names along with longitude, latitude and 
+altitude of that city 
+* [places.xml](https://github.com/nafSadh/places.coord/blob/master/places.xml) 
+- an XML document with places data
 
-LocData.js
+places.data.js
 ----------
-LocData.js - I use this file populated from this project for some of my apps. 
+[places.data.js](https://github.com/nafSadh/places.coord/blob/master/places.data.js) 
+- I use this file populated from this project for some of my apps. 
 Here, an object LocData has three members:
 * ContryList - list of country names, followed by a pair of indices indicating 
 first and last city of that country in City
