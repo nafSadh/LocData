@@ -1,7 +1,7 @@
 `places.coord`
 ==============
 
-Location Data (longitude and latitude) of morea than ten thousand cities of 160 countries.
+Location Data (longitude and latitude) of more than ten thousand cities of 160 countries.
 
 ## about files
 
