@@ -8,11 +8,8 @@ define("CNTRY", "country");
 define("NAME", "name");
 define("PLACE", "place");
 
-function stringUpdate($string){
-//    $map = array(
-//        '’'=>"&#x2019;",
-//        );
-//    $string = strtr($string, $map);
+function stringUpdate($string)
+{
     $string = str_replace('’', "&#x2019;", $string);
     return $string;
 }
@@ -181,7 +178,8 @@ echo remove_accents($str); // Output: l s c t z y a i e C A Z Y
 */
 
 
-function genPlacesLocDataFromCSV($url){
+function genPlacesLocDataFromCSV($url)
+{
     $lines = file($url);
     //s v2
     $mjrCt = new DOMDocument();
@@ -250,6 +248,40 @@ function genPlacesLocDataFromCSV($url){
 //    echo $placeLDxml->saveXML();
     $placeLDxml->save("places-location-data.xml");
 }
+
+function PlacesCoordCSV2XML($csvfile, $xmlfile)
+{
+    $lines = file($csvfile);
+
+    $placesXml = new DOMDocument('1.0','UTF-8');
+    $placesXml->preserveWhiteSpace = false;
+    $placesXml->formatOutput = true;
+    $placesXml->normalizeDocument();
+    $placesRoot = $placesXml->createElement("places-coord");
+
+    $i=-1;
+    foreach ($lines as $line) {
+        $placeNode= new DOMElement(PLACE);
+        $placesRoot->appendChild($placeNode);
+
+        $line = str_replace('"', '', $line);
+        $explodedLine = explode(',', $line);
+
+        $placeNode->setAttribute( "id",  ++$i );
+        if(!array_key_exists(4,$explodedLine)) continue;
+
+        $country = stringUpdate(trim($explodedLine[0]));
+        $placeNode->setAttribute( CNTRY, $country );
+        $name = stringUpdate(trim($explodedLine[1]));
+        $placeNode->setAttribute( NAME,$name );
+        $placeNode->setAttribute( LATID,   trim($explodedLine[2]) );//latitude
+        $placeNode->setAttribute( LONGD,   trim($explodedLine[3]) );//longitude
+        $placeNode->setAttribute( ALTID,   trim($explodedLine[4]) );//altitude
+    }
+    $placesXml->appendChild($placesRoot);
+    $placesXml->save($xmlfile);
+}
+
 
 function genMajorCitiesFromCSV($url){
     $lines = file($url);
