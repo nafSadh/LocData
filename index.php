@@ -8,7 +8,7 @@ set_time_limit(900);
 
 PlacesCoordCsv2Xml("places.csv", "places.xml");
 $pgcData = PlacesCoordXml2Array("places.xml","");
-$tzoneData = genWorldTimeZoneArrayFromFile("worldTimeZone.csv");
+$tzoneData = genWorldTimeZoneArrayFromFile("timezones/tz.csv");
 
 $jsFile = 
 "/* 
@@ -21,18 +21,18 @@ $jsFile =
  * 
  * it is released in Public Domain, so you can use it in whichever way you want
  */
-var LocData = new function PlacesCoord(){
-    this.ContryList = [	
-      $pgcData[ContryList]
-    ];
-    this.City = [
-      $pgcData[City]
-    ];
-    this.TZone = [
-      $tzoneData
-    ];
-  }  
+var LocData = new function LLocData(){
+  this.ContryList = [	
+    $pgcData[ContryList]
+  ];
+  this.City = [
+    $pgcData[City]
+  ];
+  this.TZone = [
+    $tzoneData
+  ];
+} 
 ";
-file_put_contents("places.coord.js", $jsFile);
+file_put_contents("places.data.js", $jsFile);
  echo "done";
 ?>

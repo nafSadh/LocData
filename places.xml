@@ -10165,7 +10165,7 @@
   <place id="10162" country="United States" name="Nashville" latitude="36.1658899" longitude="-86.7844467" altitude="151"/>
   <place id="10163" country="United States" name="New Orleans" latitude="29.9546482" longitude="-90.0750732" altitude="0"/>
   <place id="10164" country="United States" name="New South Memphis" latitude="35.0867579" longitude="-90.0567551" altitude="74"/>
-  <place id="10165" country="United States" name="New York City" latitude="40.7142691" longitude="-74.0059738" altitude="2"/>
+  <place id="10165" country="United States" name="New York City" latitude="40.7142691" longitude="-74.0059738" altitude="10"/>
   <place id="10166" country="United States" name="Newark" latitude="40.735657" longitude="-74.1723633" altitude="16"/>
   <place id="10167" country="United States" name="Norfolk" latitude="36.8468146" longitude="-76.2852173" altitude="3"/>
   <place id="10168" country="United States" name="North Glendale" latitude="34.1605626" longitude="-118.2645187" altitude="174"/>
@@ -10196,422 +10196,423 @@
   <place id="10193" country="United States" name="Seattle" latitude="47.6062095" longitude="-122.3320694" altitude="60"/>
   <place id="10194" country="United States" name="South Boston" latitude="42.3334312" longitude="-71.0494919" altitude="10"/>
   <place id="10195" country="United States" name="Stockton" latitude="37.9577016" longitude="-121.2907791" altitude="4"/>
-  <place id="10196" country="United States" name="Tampa" latitude="27.9475216" longitude="-82.4584274" altitude="1"/>
-  <place id="10197" country="United States" name="Toledo" latitude="41.6639383" longitude="-83.5552139" altitude="191"/>
-  <place id="10198" country="United States" name="Tucson" latitude="32.2217429" longitude="-110.9264755" altitude="751"/>
-  <place id="10199" country="United States" name="Tulsa" latitude="36.1539816" longitude="-95.992775" altitude="213"/>
-  <place id="10200" country="United States" name="Virginia Beach" latitude="36.8529263" longitude="-75.9779816" altitude="3"/>
-  <place id="10201" country="United States" name="Washington" latitude="38.8951118" longitude="-77.0363693" altitude="11"/>
-  <place id="10202" country="United States" name="West Raleigh" latitude="35.7868182" longitude="-78.6638947" altitude="122"/>
-  <place id="10203" country="United States" name="Wichita" latitude="37.6922361" longitude="-97.3375473" altitude="402"/>
-  <place id="10204" country="Uruguay" name="Acegua" latitude="-31.8666667" longitude="-54.2000008" altitude="235"/>
-  <place id="10205" country="Uruguay" name="Aigua" latitude="-34.2" longitude="-54.75" altitude="112"/>
-  <place id="10206" country="Uruguay" name="Artigas" latitude="-30.4" longitude="-56.4666672" altitude="151"/>
-  <place id="10207" country="Uruguay" name="Atlantida" latitude="-34.7666667" longitude="-55.75" altitude="20"/>
-  <place id="10208" country="Uruguay" name="Baltasar Brum" latitude="-30.7333333" longitude="-57.3166656" altitude="118"/>
-  <place id="10209" country="Uruguay" name="Barra de Carrasco" latitude="-34.8772222" longitude="-56.0297203" altitude="2"/>
-  <place id="10210" country="Uruguay" name="Belen" latitude="-30.7833333" longitude="-57.7833328" altitude="32"/>
-  <place id="10211" country="Uruguay" name="Bella Union" latitude="-30.25" longitude="-57.5833321" altitude="48"/>
-  <place id="10212" country="Uruguay" name="Canelones" latitude="-34.5227778" longitude="-56.2777786" altitude="29"/>
-  <place id="10213" country="Uruguay" name="Cardona" latitude="-33.8833333" longitude="-57.3833351" altitude="163"/>
-  <place id="10214" country="Uruguay" name="Carmelo" latitude="-33.9891667" longitude="-58.2855568" altitude="19"/>
-  <place id="10215" country="Uruguay" name="Castillos" latitude="-34.1666667" longitude="-53.8333321" altitude="44"/>
-  <place id="10216" country="Uruguay" name="Casupa" latitude="-34.0333333" longitude="-55.6500015" altitude="150"/>
-  <place id="10217" country="Uruguay" name="Cebollati" latitude="-33.2666667" longitude="-53.7833328" altitude="4"/>
-  <place id="10218" country="Uruguay" name="Chuy" latitude="-33.6833333" longitude="-53.4500008" altitude="2"/>
-  <place id="10219" country="Uruguay" name="Colonia del Sacramento" latitude="-34.4666667" longitude="-57.8499985" altitude="28"/>
-  <place id="10220" country="Uruguay" name="Colonia Nicolich" latitude="-34.8130556" longitude="-56.0447235" altitude="9"/>
-  <place id="10221" country="Uruguay" name="Constitucion" latitude="-31.0833333" longitude="-57.8333321" altitude="52"/>
-  <place id="10222" country="Uruguay" name="Delta del Tigre" latitude="-34.7633333" longitude="-56.3852768" altitude="19"/>
-  <place id="10223" country="Uruguay" name="Dolores" latitude="-33.5441667" longitude="-58.1972237" altitude="30"/>
-  <place id="10224" country="Uruguay" name="Durazno" latitude="-33.4130556" longitude="-56.5005569" altitude="91"/>
-  <place id="10225" country="Uruguay" name="Ecilda Paullier" latitude="-34.3666667" longitude="-57.0666656" altitude="61"/>
-  <place id="10226" country="Uruguay" name="Empalme Olmos" latitude="-34.7" longitude="-55.9000015" altitude="40"/>
-  <place id="10227" country="Uruguay" name="Florencio Sanchez" latitude="-33.8833333" longitude="-57.4000015" altitude="156"/>
-  <place id="10228" country="Uruguay" name="Florida" latitude="-34.0955556" longitude="-56.2141685" altitude="74"/>
-  <place id="10229" country="Uruguay" name="Fray Bentos" latitude="-33.1325" longitude="-58.2955551" altitude="43"/>
-  <place id="10230" country="Uruguay" name="Guichon" latitude="-32.35" longitude="-57.2000008" altitude="92"/>
-  <place id="10231" country="Uruguay" name="Isidoro Noblia" latitude="-31.8333333" longitude="-54.1666679" altitude="152"/>
-  <place id="10232" country="Uruguay" name="Joaquin Suarez" latitude="-34.7336111" longitude="-56.0366669" altitude="58"/>
-  <place id="10233" country="Uruguay" name="Jose Batlle y Ordonez" latitude="-33.4666667" longitude="-55.1166649" altitude="277"/>
-  <place id="10234" country="Uruguay" name="Jose Enrique Rodo" latitude="-33.6833333" longitude="-57.5666656" altitude="132"/>
-  <place id="10235" country="Uruguay" name="Jose Pedro Varela" latitude="-33.45" longitude="-54.5333328" altitude="60"/>
-  <place id="10236" country="Uruguay" name="Juan L. Lacaze" latitude="-34.4333333" longitude="-57.4166679" altitude="5"/>
-  <place id="10237" country="Uruguay" name="La Paloma" latitude="-34.6666667" longitude="-54.1666679" altitude="1"/>
-  <place id="10238" country="Uruguay" name="La Paloma" latitude="-32.7166667" longitude="-55.5999985" altitude="71"/>
-  <place id="10239" country="Uruguay" name="La Paz" latitude="-34.7616667" longitude="-56.2236099" altitude="50"/>
-  <place id="10240" country="Uruguay" name="Las Piedras" latitude="-34.7263889" longitude="-56.2200012" altitude="81"/>
-  <place id="10241" country="Uruguay" name="Las Piedras" latitude="-30.2333333" longitude="-57.5833321" altitude="43"/>
-  <place id="10242" country="Uruguay" name="Las Toscas" latitude="-34.7333333" longitude="-55.7166672" altitude="5"/>
-  <place id="10243" country="Uruguay" name="Lascano" latitude="-33.6666667" longitude="-54.2000008" altitude="3"/>
-  <place id="10244" country="Uruguay" name="Libertad" latitude="-34.6333333" longitude="-56.6191673" altitude="40"/>
-  <place id="10245" country="Uruguay" name="Los Cerrillos" latitude="-34.605" longitude="-56.3563881" altitude="62"/>
-  <place id="10246" country="Uruguay" name="Maldonado" latitude="-34.9" longitude="-54.9500008" altitude="21"/>
-  <place id="10247" country="Uruguay" name="Mariscala" latitude="-34.05" longitude="-54.7833328" altitude="92"/>
-  <place id="10248" country="Uruguay" name="Melo" latitude="-32.3666667" longitude="-54.1833344" altitude="81"/>
-  <place id="10249" country="Uruguay" name="Mercedes" latitude="-33.2558333" longitude="-58.019165" altitude="41"/>
-  <place id="10250" country="Uruguay" name="Migues" latitude="-34.4833333" longitude="-55.6500015" altitude="59"/>
-  <place id="10251" country="Uruguay" name="Minas" latitude="-34.37" longitude="-55.2249985" altitude="148"/>
-  <place id="10252" country="Uruguay" name="Minas de Corrales" latitude="-31.5833333" longitude="-55.4666672" altitude="111"/>
-  <place id="10253" country="Uruguay" name="Montes" latitude="-34.5" longitude="-55.5833321" altitude="50"/>
-  <place id="10254" country="Uruguay" name="Montevideo" latitude="-34.8580556" longitude="-56.1708336" altitude="78"/>
-  <place id="10255" country="Uruguay" name="Nueva Helvecia" latitude="-34.3" longitude="-57.2333336" altitude="42"/>
-  <place id="10256" country="Uruguay" name="Nueva Palmira" latitude="-33.8833333" longitude="-58.4166679" altitude="9"/>
-  <place id="10257" country="Uruguay" name="Nuevo Berlin" latitude="-32.9833333" longitude="-58.0499992" altitude="20"/>
-  <place id="10258" country="Uruguay" name="Ombues de Lavalle" latitude="-33.9166667" longitude="-57.7833328" altitude="120"/>
-  <place id="10259" country="Uruguay" name="Pajas Blancas" latitude="-34.8016667" longitude="-56.3341675" altitude="44"/>
-  <place id="10260" country="Uruguay" name="Palmitas" latitude="-33.5166667" longitude="-57.8333321" altitude="89"/>
-  <place id="10261" country="Uruguay" name="Pan de Azucar" latitude="-34.8" longitude="-55.2333336" altitude="79"/>
-  <place id="10262" country="Uruguay" name="Pando" latitude="-34.7166667" longitude="-55.9500008" altitude="11"/>
-  <place id="10263" country="Uruguay" name="Paso de Carrasco" latitude="-34.8602778" longitude="-56.0522232" altitude="20"/>
-  <place id="10264" country="Uruguay" name="Paso de los Toros" latitude="-32.8166667" longitude="-56.5166664" altitude="54"/>
-  <place id="10265" country="Uruguay" name="Paysandu" latitude="-32.3213889" longitude="-58.0755539" altitude="50"/>
-  <place id="10266" country="Uruguay" name="Piriapolis" latitude="-34.8681866" longitude="-55.2743645" altitude="23"/>
-  <place id="10267" country="Uruguay" name="Progreso" latitude="-34.665" longitude="-56.2194443" altitude="53"/>
-  <place id="10268" country="Uruguay" name="Punta del Este" latitude="-34.9666667" longitude="-54.9500008" altitude="1"/>
-  <place id="10269" country="Uruguay" name="Quebracho" latitude="-31.95" longitude="-57.8833351" altitude="39"/>
-  <place id="10270" country="Uruguay" name="Rio Branco" latitude="-32.5666667" longitude="-53.4166679" altitude="17"/>
-  <place id="10271" country="Uruguay" name="Rivera" latitude="-30.9" longitude="-55.5166664" altitude="204"/>
-  <place id="10272" country="Uruguay" name="Rocha" latitude="-34.4833333" longitude="-54.3333321" altitude="8"/>
-  <place id="10273" country="Uruguay" name="Rodriguez" latitude="-34.3827778" longitude="-56.5416679" altitude="52"/>
-  <place id="10274" country="Uruguay" name="Rosario" latitude="-34.3166667" longitude="-57.3499985" altitude="19"/>
-  <place id="10275" country="Uruguay" name="Salto" latitude="-31.3833333" longitude="-57.9666672" altitude="47"/>
-  <place id="10276" country="Uruguay" name="San Bautista" latitude="-34.4333333" longitude="-55.9833336" altitude="71"/>
-  <place id="10277" country="Uruguay" name="San Carlos" latitude="-34.8" longitude="-54.9166679" altitude="2"/>
-  <place id="10278" country="Uruguay" name="San Jacinto" latitude="-34.55" longitude="-55.8833351" altitude="48"/>
-  <place id="10279" country="Uruguay" name="San Javier" latitude="-32.6833333" longitude="-58.1333351" altitude="2"/>
-  <place id="10280" country="Uruguay" name="San Jose de Mayo" latitude="-34.3375" longitude="-56.7136116" altitude="53"/>
-  <place id="10281" country="Uruguay" name="San Ramon" latitude="-34.3" longitude="-55.9666672" altitude="51"/>
-  <place id="10282" country="Uruguay" name="Santa Clara de Olimar" latitude="-32.9166667" longitude="-54.9666672" altitude="304"/>
-  <place id="10283" country="Uruguay" name="Santa Lucia" latitude="-34.4533333" longitude="-56.3905563" altitude="35"/>
-  <place id="10284" country="Uruguay" name="Santa Rosa" latitude="-34.4975" longitude="-56.0372238" altitude="63"/>
-  <place id="10285" country="Uruguay" name="Sarandi del Yi" latitude="-33.35" longitude="-55.6333351" altitude="105"/>
-  <place id="10286" country="Uruguay" name="Sarandi Grande" latitude="-33.7333333" longitude="-56.3333321" altitude="130"/>
-  <place id="10287" country="Uruguay" name="Sauce" latitude="-34.6469444" longitude="-56.0627785" altitude="65"/>
-  <place id="10288" country="Uruguay" name="Soca" latitude="-34.6833333" longitude="-55.6833344" altitude="28"/>
-  <place id="10289" country="Uruguay" name="Solis de Mataojo" latitude="-34.6" longitude="-55.4833336" altitude="12"/>
-  <place id="10290" country="Uruguay" name="Tacuarembo" latitude="-31.7333333" longitude="-55.9833336" altitude="140"/>
-  <place id="10291" country="Uruguay" name="Tala" latitude="-34.35" longitude="-55.7666664" altitude="49"/>
-  <place id="10292" country="Uruguay" name="Tarariras" latitude="-34.2833333" longitude="-57.6166649" altitude="100"/>
-  <place id="10293" country="Uruguay" name="Toledo" latitude="-34.7422222" longitude="-56.0983315" altitude="69"/>
-  <place id="10294" country="Uruguay" name="Tomas Gomensoro" latitude="-30.4333333" longitude="-57.4333344" altitude="82"/>
-  <place id="10295" country="Uruguay" name="Tranqueras" latitude="-31.2" longitude="-55.75" altitude="164"/>
-  <place id="10296" country="Uruguay" name="Treinta y Tres" latitude="-33.2333333" longitude="-54.3833351" altitude="63"/>
-  <place id="10297" country="Uruguay" name="Trinidad" latitude="-33.5388889" longitude="-56.8886108" altitude="134"/>
-  <place id="10298" country="Uruguay" name="Veinticinco de Agosto" latitude="-34.4116667" longitude="-56.4022217" altitude="29"/>
-  <place id="10299" country="Uruguay" name="Veinticinco de Mayo" latitude="-34.1891667" longitude="-56.3394432" altitude="58"/>
-  <place id="10300" country="Uruguay" name="Vergara" latitude="-32.9333333" longitude="-53.9500008" altitude="17"/>
-  <place id="10301" country="Uruguay" name="Vichadero" latitude="-31.8" longitude="-54.7166672" altitude="184"/>
-  <place id="10302" country="Uruguay" name="Villa del Carmen" latitude="-33.25" longitude="-56.0166664" altitude="156"/>
-  <place id="10303" country="Uruguay" name="Young" latitude="-32.6833333" longitude="-57.6333351" altitude="63"/>
-  <place id="10304" country="Venezuela" name="Acarigua" latitude="9.5597222" longitude="-69.2019424" altitude="199"/>
-  <place id="10305" country="Venezuela" name="Altagracia de Orituco" latitude="9.8622222" longitude="-66.3805542" altitude="499"/>
-  <place id="10306" country="Venezuela" name="Alto Barinas" latitude="8.5944444" longitude="-70.2222214" altitude="207"/>
-  <place id="10307" country="Venezuela" name="Anaco" latitude="9.4388889" longitude="-64.4727783" altitude="205"/>
-  <place id="10308" country="Venezuela" name="Araure" latitude="9.5666667" longitude="-69.2166672" altitude="207"/>
-  <place id="10309" country="Venezuela" name="Barcelona" latitude="10.1333333" longitude="-64.6999969" altitude="3"/>
-  <place id="10310" country="Venezuela" name="Barinitas" latitude="8.7622222" longitude="-70.4111099" altitude="463"/>
-  <place id="10311" country="Venezuela" name="Barquisimeto" latitude="10.0738889" longitude="-69.3227768" altitude="573"/>
-  <place id="10312" country="Venezuela" name="Baruta" latitude="10.4333333" longitude="-66.8833313" altitude="1179"/>
-  <place id="10313" country="Venezuela" name="Cabimas" latitude="10.4019444" longitude="-71.4461136" altitude="11"/>
-  <place id="10314" country="Venezuela" name="Cagua" latitude="10.1833333" longitude="-67.4499969" altitude="576"/>
-  <place id="10315" country="Venezuela" name="Calabozo" latitude="8.9344444" longitude="-67.4266663" altitude="78"/>
-  <place id="10316" country="Venezuela" name="Cantaura" latitude="9.3105556" longitude="-64.3594437" altitude="248"/>
-  <place id="10317" country="Venezuela" name="Caraballeda" latitude="10.6166667" longitude="-66.8333359" altitude="-9999"/>
-  <place id="10318" country="Venezuela" name="Caracas" latitude="10.5" longitude="-66.9166641" altitude="920"/>
-  <place id="10319" country="Venezuela" name="Carora" latitude="10.1777778" longitude="-70.0805588" altitude="508"/>
-  <place id="10320" country="Venezuela" name="Carrizal" latitude="10.35" longitude="-66.9833298" altitude="1161"/>
-  <place id="10321" country="Venezuela" name="Carupano" latitude="10.6697222" longitude="-63.2491684" altitude="38"/>
-  <place id="10322" country="Venezuela" name="Catia La Mar" latitude="10.6" longitude="-67.0333328" altitude="82"/>
-  <place id="10323" country="Venezuela" name="Caucaguito" latitude="10.4833333" longitude="-66.7333298" altitude="570"/>
-  <place id="10324" country="Venezuela" name="Chacao" latitude="10.5" longitude="-66.8499985" altitude="898"/>
-  <place id="10325" country="Venezuela" name="Charallave" latitude="10.2483333" longitude="-66.8566666" altitude="405"/>
-  <place id="10326" country="Venezuela" name="Chivacoa" latitude="10.1602778" longitude="-68.8949966" altitude="305"/>
-  <place id="10327" country="Venezuela" name="Ciudad Bolivar" latitude="8.1222222" longitude="-63.5497208" altitude="73"/>
-  <place id="10328" country="Venezuela" name="Ciudad Guayana" latitude="8.3533333" longitude="-62.6527786" altitude="7"/>
-  <place id="10329" country="Venezuela" name="Coro" latitude="11.4091667" longitude="-69.6672211" altitude="28"/>
-  <place id="10330" country="Venezuela" name="Cua" latitude="10.1622222" longitude="-66.8852768" altitude="246"/>
-  <place id="10331" country="Venezuela" name="Cumana" latitude="10.4666667" longitude="-64.1666641" altitude="4"/>
-  <place id="10332" country="Venezuela" name="Ejido" latitude="8.5513889" longitude="-71.2375031" altitude="1163"/>
-  <place id="10333" country="Venezuela" name="El Cafetal" latitude="10.4666667" longitude="-66.827774" altitude="874"/>
-  <place id="10334" country="Venezuela" name="El Diario de Yaracuy" latitude="10.341692" longitude="-68.7328033" altitude="207"/>
-  <place id="10335" country="Venezuela" name="El Hatillo" latitude="10.4333333" longitude="-66.8166656" altitude="1211"/>
-  <place id="10336" country="Venezuela" name="El Limon" latitude="10.3091667" longitude="-67.6324997" altitude="597"/>
-  <place id="10337" country="Venezuela" name="El Tigre" latitude="8.8925" longitude="-64.2527771" altitude="276"/>
-  <place id="10338" country="Venezuela" name="El Tocuyo" latitude="9.7861111" longitude="-69.789444" altitude="690"/>
-  <place id="10339" country="Venezuela" name="El Vigia" latitude="8.6219444" longitude="-71.6505585" altitude="152"/>
-  <place id="10340" country="Venezuela" name="Guacara" latitude="10.2297222" longitude="-67.8738861" altitude="581"/>
-  <place id="10341" country="Venezuela" name="Guanare" latitude="9.05" longitude="-69.75" altitude="173"/>
-  <place id="10342" country="Venezuela" name="Guarenas" latitude="10.4666667" longitude="-66.6166687" altitude="523"/>
-  <place id="10343" country="Venezuela" name="Guasdalito" latitude="7.2472222" longitude="-70.7294464" altitude="125"/>
-  <place id="10344" country="Venezuela" name="Guatire" latitude="10.4666667" longitude="-66.5333328" altitude="408"/>
-  <place id="10345" country="Venezuela" name="Guigue" latitude="10.0852778" longitude="-67.7791672" altitude="590"/>
-  <place id="10346" country="Venezuela" name="La Asuncion" latitude="11.0333333" longitude="-63.8627777" altitude="67"/>
-  <place id="10347" country="Venezuela" name="La Dolorita" latitude="10.4905556" longitude="-66.7833328" altitude="973"/>
-  <place id="10348" country="Venezuela" name="La Fria" latitude="8.2188889" longitude="-72.2483368" altitude="152"/>
-  <place id="10349" country="Venezuela" name="La Guaira" latitude="10.599011" longitude="-66.9346008" altitude="150"/>
-  <place id="10350" country="Venezuela" name="La Victoria" latitude="10.2333333" longitude="-67.3333359" altitude="612"/>
-  <place id="10351" country="Venezuela" name="Lagunillas" latitude="10.1408333" longitude="-71.2613907" altitude="1"/>
-  <place id="10352" country="Venezuela" name="Las Tejerias" latitude="10.25" longitude="-67.1666641" altitude="496"/>
-  <place id="10353" country="Venezuela" name="Los Dos Caminos" latitude="10.5166667" longitude="-66.8333359" altitude="1466"/>
-  <place id="10354" country="Venezuela" name="Los Rastrojos" latitude="10.0227778" longitude="-69.2444458" altitude="467"/>
-  <place id="10355" country="Venezuela" name="Machiques" latitude="10.0644444" longitude="-72.5449982" altitude="130"/>
-  <place id="10356" country="Venezuela" name="Maiquetia" latitude="10.6" longitude="-66.9499969" altitude="105"/>
-  <place id="10357" country="Venezuela" name="Maracaibo" latitude="10.6316667" longitude="-71.6405563" altitude="3"/>
-  <place id="10358" country="Venezuela" name="Mariara" latitude="10.2983333" longitude="-67.7161102" altitude="608"/>
-  <place id="10359" country="Venezuela" name="Maturin" latitude="9.75" longitude="-63.1766663" altitude="55"/>
-  <place id="10360" country="Venezuela" name="Merida" latitude="8.5983333" longitude="-71.1449966" altitude="1473"/>
-  <place id="10361" country="Venezuela" name="Moron" latitude="10.4888889" longitude="-68.2002792" altitude="19"/>
-  <place id="10362" country="Venezuela" name="Mucumpiz" latitude="8.4166667" longitude="-71.1333313" altitude="2163"/>
-  <place id="10363" country="Venezuela" name="Nirgua" latitude="10.155" longitude="-68.5630569" altitude="874"/>
-  <place id="10364" country="Venezuela" name="Ocumare del Tuy" latitude="10.1216667" longitude="-66.7716675" altitude="178"/>
-  <place id="10365" country="Venezuela" name="Palo Negro" latitude="10.1738889" longitude="-67.5419464" altitude="593"/>
-  <place id="10366" country="Venezuela" name="Petare" latitude="10.4833333" longitude="-66.8166656" altitude="867"/>
-  <place id="10367" country="Venezuela" name="Porlamar" latitude="10.95" longitude="-63.8499985" altitude="-9999"/>
-  <place id="10368" country="Venezuela" name="Puerto Ayacucho" latitude="5.6638889" longitude="-67.6236115" altitude="69"/>
-  <place id="10369" country="Venezuela" name="Puerto Cabello" latitude="10.4730556" longitude="-68.0124969" altitude="49"/>
-  <place id="10370" country="Venezuela" name="Puerto La Cruz" latitude="10.2166667" longitude="-64.6166687" altitude="64"/>
-  <place id="10371" country="Venezuela" name="Punta Cardon" latitude="11.6580556" longitude="-70.2149963" altitude="4"/>
-  <place id="10372" country="Venezuela" name="Punto Fijo" latitude="11.6997222" longitude="-70.1991653" altitude="4"/>
-  <place id="10373" country="Venezuela" name="Quibor" latitude="9.9255556" longitude="-69.6202774" altitude="799"/>
-  <place id="10374" country="Venezuela" name="Rosario" latitude="10.3166667" longitude="-72.3166656" altitude="101"/>
-  <place id="10375" country="Venezuela" name="Rubio" latitude="7.7072222" longitude="-72.3538895" altitude="869"/>
-  <place id="10376" country="Venezuela" name="San Antonio de Los Altos" latitude="10.3666667" longitude="-66.9333344" altitude="1220"/>
-  <place id="10377" country="Venezuela" name="San Antonio del Tachira" latitude="7.8177778" longitude="-72.4424973" altitude="610"/>
-  <place id="10378" country="Venezuela" name="San Carlos" latitude="9.6666667" longitude="-68.5999985" altitude="138"/>
-  <place id="10379" country="Venezuela" name="San Carlos del Zulia" latitude="9.0041667" longitude="-71.9163895" altitude="6"/>
-  <place id="10380" country="Venezuela" name="San Cristobal" latitude="7.7669444" longitude="-72.2249985" altitude="881"/>
-  <place id="10381" country="Venezuela" name="San Felipe" latitude="10.3405556" longitude="-68.7372208" altitude="207"/>
-  <place id="10382" country="Venezuela" name="San Fernando Apure" latitude="7.8966667" longitude="-67.4672241" altitude="27"/>
-  <place id="10383" country="Venezuela" name="San Joaquin" latitude="10.2625" longitude="-67.7922211" altitude="533"/>
-  <place id="10384" country="Venezuela" name="San Jose de Guanipa" latitude="8.8933333" longitude="-64.1591644" altitude="248"/>
-  <place id="10385" country="Venezuela" name="San Juan de Colon" latitude="8.0377778" longitude="-72.2519455" altitude="809"/>
-  <place id="10386" country="Venezuela" name="San Juan de los Morros" latitude="9.9111111" longitude="-67.3583298" altitude="512"/>
-  <place id="10387" country="Venezuela" name="San Mateo" latitude="10.2166667" longitude="-67.4166641" altitude="620"/>
-  <place id="10388" country="Venezuela" name="Santa Rita" latitude="10.5380556" longitude="-71.5169449" altitude="1"/>
-  <place id="10389" country="Venezuela" name="Santa Teresa" latitude="10.2313889" longitude="-66.6636124" altitude="135"/>
-  <place id="10390" country="Venezuela" name="Tacarigua" latitude="10.09" longitude="-67.9197235" altitude="596"/>
-  <place id="10391" country="Venezuela" name="Tariba" latitude="7.8236111" longitude="-72.2213898" altitude="910"/>
-  <place id="10392" country="Venezuela" name="Tinaquillo" latitude="9.9186111" longitude="-68.3047256" altitude="510"/>
-  <place id="10393" country="Venezuela" name="Trujillo" latitude="9.3666667" longitude="-70.4333344" altitude="1170"/>
-  <place id="10394" country="Venezuela" name="Tucupita" latitude="9.0686111" longitude="-62.0491676" altitude="1"/>
-  <place id="10395" country="Venezuela" name="Turmero" latitude="10.2333333" longitude="-67.4833298" altitude="602"/>
-  <place id="10396" country="Venezuela" name="Upata" latitude="8.0086111" longitude="-62.3988876" altitude="326"/>
-  <place id="10397" country="Venezuela" name="Valencia" latitude="10.1805556" longitude="-68.003891" altitude="558"/>
-  <place id="10398" country="Venezuela" name="Valera" latitude="9.3177778" longitude="-70.6036148" altitude="537"/>
-  <place id="10399" country="Venezuela" name="Valle de La Pascua" latitude="9.2166667" longitude="-66" altitude="154"/>
-  <place id="10400" country="Venezuela" name="Villa Bruzual" latitude="9.3327778" longitude="-69.1208344" altitude="122"/>
-  <place id="10401" country="Venezuela" name="Villa de Cura" latitude="10.0333333" longitude="-67.4833298" altitude="556"/>
-  <place id="10402" country="Venezuela" name="Yaritagua" latitude="10.08" longitude="-69.1261139" altitude="506"/>
-  <place id="10403" country="Venezuela" name="Zaraza" latitude="9.35" longitude="-65.3166656" altitude="52"/>
-  <place id="10404" country="Vietnam" name="Bac Giang" latitude="21.2666667" longitude="106.1999969" altitude="29"/>
-  <place id="10405" country="Vietnam" name="Bac Lieu" latitude="9.285" longitude="105.7244415" altitude="1"/>
-  <place id="10406" country="Vietnam" name="Bac Ninh" latitude="21.1833333" longitude="106.0500031" altitude="13"/>
-  <place id="10407" country="Vietnam" name="Ben Tre" latitude="10.2333333" longitude="106.3833313" altitude="1"/>
-  <place id="10408" country="Vietnam" name="Bien Hoa" latitude="10.95" longitude="106.8166656" altitude="16"/>
-  <place id="10409" country="Vietnam" name="Bim Son" latitude="20.0780556" longitude="105.8602753" altitude="9"/>
-  <place id="10410" country="Vietnam" name="Buon Ma Thuot" latitude="12.6666667" longitude="108.0500031" altitude="467"/>
-  <place id="10411" country="Vietnam" name="Ca Mau" latitude="9.1769444" longitude="105.1500015" altitude="1"/>
-  <place id="10412" country="Vietnam" name="Cam Pha Mines" latitude="21.0166667" longitude="107.3000031" altitude="306"/>
-  <place id="10413" country="Vietnam" name="Cam Ranh" latitude="11.9214391" longitude="109.1591263" altitude="20"/>
-  <place id="10414" country="Vietnam" name="Can Tho" latitude="10.0333333" longitude="105.7833328" altitude="1"/>
-  <place id="10415" country="Vietnam" name="Cao Bang" latitude="22.6666667" longitude="106.25" altitude="197"/>
-  <place id="10416" country="Vietnam" name="Chau Doc" latitude="10.7" longitude="105.1166687" altitude="1"/>
-  <place id="10417" country="Vietnam" name="Da Lat" latitude="11.9333333" longitude="108.4166641" altitude="1464"/>
-  <place id="10418" country="Vietnam" name="Da Nang" latitude="16.0677778" longitude="108.2208328" altitude="7"/>
-  <place id="10419" country="Vietnam" name="Dien Bien Phu" latitude="21.3833333" longitude="103.0166702" altitude="490"/>
-  <place id="10420" country="Vietnam" name="Dong Ha" latitude="16.8166667" longitude="107.1333313" altitude="6"/>
-  <place id="10421" country="Vietnam" name="Dong Hoi" latitude="17.4833333" longitude="106.5999985" altitude="13"/>
-  <place id="10422" country="Vietnam" name="Dong Xoai" latitude="11.5333333" longitude="106.9166641" altitude="85"/>
-  <place id="10423" country="Vietnam" name="Ha Dong" latitude="20.9725" longitude="105.7772217" altitude="27"/>
-  <place id="10424" country="Vietnam" name="Ha Giang" latitude="22.8333333" longitude="104.9833298" altitude="143"/>
-  <place id="10425" country="Vietnam" name="Ha Long" latitude="20.9511111" longitude="107.0800018" altitude="70"/>
-  <place id="10426" country="Vietnam" name="Ha Noi" latitude="21.0333333" longitude="105.8499985" altitude="26"/>
-  <place id="10427" country="Vietnam" name="Hai Duong" latitude="20.9333333" longitude="106.3166656" altitude="1"/>
-  <place id="10428" country="Vietnam" name="Haiphong" latitude="20.8561111" longitude="106.6822205" altitude="3"/>
-  <place id="10429" country="Vietnam" name="Hoa Binh" latitude="20.8133333" longitude="105.3383331" altitude="23"/>
-  <place id="10430" country="Vietnam" name="Hoi An" latitude="15.8794444" longitude="108.3349991" altitude="13"/>
-  <place id="10431" country="Vietnam" name="Hue" latitude="16.4666667" longitude="107.5999985" altitude="3"/>
-  <place id="10432" country="Vietnam" name="Kon Tum" latitude="14.35" longitude="108" altitude="530"/>
-  <place id="10433" country="Vietnam" name="Lao Cai" latitude="22.4833333" longitude="103.9499969" altitude="233"/>
-  <place id="10434" country="Vietnam" name="Long Xuyen" latitude="10.3833333" longitude="105.4166641" altitude="2"/>
-  <place id="10435" country="Vietnam" name="My Tho" latitude="10.35" longitude="106.3499985" altitude="1"/>
-  <place id="10436" country="Vietnam" name="Nam Dinh" latitude="20.4166667" longitude="106.1666641" altitude="1"/>
-  <place id="10437" country="Vietnam" name="Nha Trang" latitude="12.25" longitude="109.1833344" altitude="3"/>
-  <place id="10438" country="Vietnam" name="Ninh Binh" latitude="20.2538889" longitude="105.9749985" altitude="12"/>
-  <place id="10439" country="Vietnam" name="Phan Rang-Thap Cham" latitude="11.5666667" longitude="108.9833298" altitude="6"/>
-  <place id="10440" country="Vietnam" name="Phan Thiet" latitude="10.9333333" longitude="108.0999985" altitude="10"/>
-  <place id="10441" country="Vietnam" name="Phu Khuong" latitude="11.2833333" longitude="106.1333313" altitude="19"/>
-  <place id="10442" country="Vietnam" name="Phu Ly" latitude="20.5411111" longitude="105.913887" altitude="22"/>
-  <place id="10443" country="Vietnam" name="Pleiku" latitude="13.9833333" longitude="108" altitude="756"/>
-  <place id="10444" country="Vietnam" name="Quang Ngai" latitude="15.1166667" longitude="108.8000031" altitude="14"/>
-  <place id="10445" country="Vietnam" name="Quy Nhon" latitude="13.7666667" longitude="109.2333298" altitude="8"/>
-  <place id="10446" country="Vietnam" name="Rach Gia" latitude="10.0166667" longitude="105.0833359" altitude="1"/>
-  <place id="10447" country="Vietnam" name="Sa Dec" latitude="10.3" longitude="105.7666702" altitude="1"/>
-  <place id="10448" country="Vietnam" name="Soc Trang" latitude="9.6033333" longitude="105.9800034" altitude="1"/>
-  <place id="10449" country="Vietnam" name="Son La" latitude="21.3166667" longitude="103.9000015" altitude="673"/>
-  <place id="10450" country="Vietnam" name="Son Tay" latitude="21.1377778" longitude="105.5049973" altitude="23"/>
-  <place id="10451" country="Vietnam" name="Tam Ky" latitude="15.5666667" longitude="108.4833298" altitude="14"/>
-  <place id="10452" country="Vietnam" name="Tan An" latitude="10.5333333" longitude="106.4166641" altitude="1"/>
-  <place id="10453" country="Vietnam" name="Thai Binh" latitude="20.45" longitude="106.3333359" altitude="3"/>
-  <place id="10454" country="Vietnam" name="Thai Nguyen" latitude="21.5927778" longitude="105.8441696" altitude="32"/>
-  <place id="10455" country="Vietnam" name="Thanh Hoa" latitude="19.8" longitude="105.7666702" altitude="18"/>
-  <place id="10456" country="Vietnam" name="Thanh pho Ho Chi Minh" latitude="10.75" longitude="106.6666641" altitude="4"/>
-  <place id="10457" country="Vietnam" name="Tra Vinh" latitude="9.9347222" longitude="106.3452759" altitude="1"/>
-  <place id="10458" country="Vietnam" name="Tuy Hoa" latitude="13.0833333" longitude="109.3000031" altitude="2"/>
-  <place id="10459" country="Vietnam" name="Tuyen Quang" latitude="21.8233333" longitude="105.2180557" altitude="30"/>
-  <place id="10460" country="Vietnam" name="Uong Bi" latitude="21.0333333" longitude="106.7833328" altitude="37"/>
-  <place id="10461" country="Vietnam" name="Viet Tri" latitude="21.3019444" longitude="105.4308319" altitude="20"/>
-  <place id="10462" country="Vietnam" name="Vinh Long" latitude="10.25" longitude="105.9666672" altitude="1"/>
-  <place id="10463" country="Vietnam" name="Vinh Yen" latitude="21.31" longitude="105.5966644" altitude="18"/>
-  <place id="10464" country="Vietnam" name="Vung Tau" latitude="10.35" longitude="107.0666656" altitude="1"/>
-  <place id="10465" country="Vietnam" name="Yen Bai" latitude="21.7" longitude="104.8666687" altitude="46"/>
-  <place id="10466" country="Vietnam" name="Yen Vinh" latitude="18.6666667" longitude="105.6666641" altitude="10"/>
-  <place id="10467" country="Yemen" name="`Adan" latitude="12.7794444" longitude="45.0366669" altitude="7"/>
-  <place id="10468" country="Yemen" name="Al Hudaydah" latitude="14.7977778" longitude="42.9522209" altitude="18"/>
-  <place id="10469" country="Yemen" name="Al Mukalla" latitude="14.53" longitude="49.1313896" altitude="1"/>
-  <place id="10470" country="Yemen" name="Bajil" latitude="15.0666667" longitude="43.2833328" altitude="191"/>
-  <place id="10471" country="Yemen" name="Bayt al Faqih" latitude="14.5161111" longitude="43.3244438" altitude="125"/>
-  <place id="10472" country="Yemen" name="Dhi as Sufal" latitude="13.85" longitude="44.1166649" altitude="2192"/>
-  <place id="10473" country="Yemen" name="Hajjah" latitude="15.695" longitude="43.5974998" altitude="1717"/>
-  <place id="10474" country="Yemen" name="Ibb" latitude="13.9666667" longitude="44.1833344" altitude="1929"/>
-  <place id="10475" country="Yemen" name="Jawf al Maqbabah" latitude="13.8383333" longitude="45.8358345" altitude="895"/>
-  <place id="10476" country="Yemen" name="Lahij" latitude="13.0566667" longitude="44.8819427" altitude="145"/>
-  <place id="10477" country="Yemen" name="Sahar" latitude="15.3155556" longitude="44.3097229" altitude="2379"/>
-  <place id="10478" country="Yemen" name="Sanaa" latitude="15.3547222" longitude="44.206665" altitude="2245"/>
-  <place id="10479" country="Yemen" name="Sayyan" latitude="15.1713889" longitude="44.3247223" altitude="2452"/>
-  <place id="10480" country="Yemen" name="Ta`izz" latitude="13.5666667" longitude="44.0333328" altitude="1455"/>
-  <place id="10481" country="Yemen" name="Yarim" latitude="14.2972222" longitude="44.3802795" altitude="2623"/>
-  <place id="10482" country="Yemen" name="Zabid" latitude="14.195" longitude="43.3152771" altitude="80"/>
-  <place id="10483" country="Zambia" name="Chadiza" latitude="-14.0666667" longitude="32.4333344" altitude="1177"/>
-  <place id="10484" country="Zambia" name="Chama" latitude="-11.2" longitude="33.1666679" altitude="979"/>
-  <place id="10485" country="Zambia" name="Chambishi" latitude="-12.65" longitude="28.083334" altitude="1286"/>
-  <place id="10486" country="Zambia" name="Chibombo" latitude="-14.65" longitude="28.0666676" altitude="1149"/>
-  <place id="10487" country="Zambia" name="Chililabombwe" latitude="-12.3666667" longitude="27.833334" altitude="1353"/>
-  <place id="10488" country="Zambia" name="Chingola" latitude="-12.5333333" longitude="27.8500004" altitude="1363"/>
-  <place id="10489" country="Zambia" name="Chinsali" latitude="-10.55" longitude="32.0666656" altitude="1307"/>
-  <place id="10490" country="Zambia" name="Chipata" latitude="-13.6333333" longitude="32.6500015" altitude="1181"/>
-  <place id="10491" country="Zambia" name="Choma" latitude="-16.8166667" longitude="26.9833336" altitude="1325"/>
-  <place id="10492" country="Zambia" name="Chongwe" latitude="-15.35" longitude="28.7000008" altitude="1069"/>
-  <place id="10493" country="Zambia" name="Gwembe" latitude="-16.5" longitude="27.6166668" altitude="1217"/>
-  <place id="10494" country="Zambia" name="Isoka" latitude="-10.1333333" longitude="32.6333351" altitude="1480"/>
-  <place id="10495" country="Zambia" name="Kabompo" latitude="-13.6" longitude="24.2000008" altitude="1028"/>
-  <place id="10496" country="Zambia" name="Kabwe" latitude="-14.4357192" longitude="28.4442043" altitude="1203"/>
-  <place id="10497" country="Zambia" name="Kafue" latitude="-15.7666667" longitude="28.1833324" altitude="1008"/>
-  <place id="10498" country="Zambia" name="Kalabo" latitude="-14.9666667" longitude="22.6833324" altitude="1019"/>
-  <place id="10499" country="Zambia" name="Kalengwa" latitude="-13.4666667" longitude="25" altitude="1196"/>
-  <place id="10500" country="Zambia" name="Kalulushi" latitude="-12.8333333" longitude="28.083334" altitude="1270"/>
-  <place id="10501" country="Zambia" name="Kansanshi" latitude="-12.1" longitude="26.4333324" altitude="1444"/>
-  <place id="10502" country="Zambia" name="Kaoma" latitude="-14.7833333" longitude="24.7999992" altitude="1127"/>
-  <place id="10503" country="Zambia" name="Kapiri Mposhi" latitude="-13.9666667" longitude="28.6833324" altitude="1286"/>
-  <place id="10504" country="Zambia" name="Kaputa" latitude="-8.4666667" longitude="29.666666" altitude="940"/>
-  <place id="10505" country="Zambia" name="Kasama" latitude="-10.2" longitude="31.2000008" altitude="1241"/>
-  <place id="10506" country="Zambia" name="Kasempa" latitude="-13.45" longitude="25.833334" altitude="1264"/>
-  <place id="10507" country="Zambia" name="Kawambwa" latitude="-9.7833333" longitude="29.083334" altitude="1308"/>
-  <place id="10508" country="Zambia" name="Kitwe" latitude="-12.8166667" longitude="28.2000008" altitude="1213"/>
-  <place id="10509" country="Zambia" name="Limulunga" latitude="-15.1" longitude="23.1499996" altitude="1025"/>
-  <place id="10510" country="Zambia" name="Livingstone" latitude="-17.85" longitude="25.8666668" altitude="897"/>
-  <place id="10511" country="Zambia" name="Luangwa" latitude="-15.6166667" longitude="30.416666" altitude="314"/>
-  <place id="10512" country="Zambia" name="Luanshya" latitude="-13.1333333" longitude="28.3999996" altitude="1246"/>
-  <place id="10513" country="Zambia" name="Lukulu" latitude="-14.3833333" longitude="23.25" altitude="1071"/>
-  <place id="10514" country="Zambia" name="Lundazi" latitude="-12.3" longitude="33.1833344" altitude="1105"/>
-  <place id="10515" country="Zambia" name="Lusaka" latitude="-15.4166667" longitude="28.2833328" altitude="1277"/>
-  <place id="10516" country="Zambia" name="Luwingu" latitude="-10.2666667" longitude="29.8999996" altitude="1307"/>
-  <place id="10517" country="Zambia" name="Maamba" latitude="-17.3666667" longitude="27.1499996" altitude="881"/>
-  <place id="10518" country="Zambia" name="Mansa" latitude="-11.2" longitude="28.8833332" altitude="1228"/>
-  <place id="10519" country="Zambia" name="Mazabuka" latitude="-15.8666667" longitude="27.7666664" altitude="1102"/>
-  <place id="10520" country="Zambia" name="Mbala" latitude="-8.8333333" longitude="31.3833332" altitude="1622"/>
-  <place id="10521" country="Zambia" name="Mkushi" latitude="-13.6166667" longitude="29.3999996" altitude="1278"/>
-  <place id="10522" country="Zambia" name="Mongu" latitude="-15.25" longitude="23.1333332" altitude="1018"/>
-  <place id="10523" country="Zambia" name="Monze" latitude="-16.2833333" longitude="27.4833336" altitude="1103"/>
-  <place id="10524" country="Zambia" name="Mpika" latitude="-11.8333333" longitude="31.4500008" altitude="1520"/>
-  <place id="10525" country="Zambia" name="Mpongwe" latitude="-13.5333333" longitude="28.1499996" altitude="1199"/>
-  <place id="10526" country="Zambia" name="Mporokoso" latitude="-9.3833333" longitude="30.1333332" altitude="1384"/>
-  <place id="10527" country="Zambia" name="Mpulungu" latitude="-8.7666667" longitude="31.1333332" altitude="789"/>
-  <place id="10528" country="Zambia" name="Mufulira" latitude="-12.55" longitude="28.2333336" altitude="1250"/>
-  <place id="10529" country="Zambia" name="Mufumbwe" latitude="-13.6833333" longitude="24.7999992" altitude="1072"/>
-  <place id="10530" country="Zambia" name="Mumbwa" latitude="-14.9833333" longitude="27.0666676" altitude="1158"/>
-  <place id="10531" country="Zambia" name="Mungwi" latitude="-10.1666667" longitude="31.3833332" altitude="1292"/>
-  <place id="10532" country="Zambia" name="Mwense" latitude="-10.3833333" longitude="28.6833324" altitude="960"/>
-  <place id="10533" country="Zambia" name="Mwinilunga" latitude="-11.7333333" longitude="24.4333324" altitude="1385"/>
-  <place id="10534" country="Zambia" name="Nakambala" latitude="-15.8333333" longitude="27.7666664" altitude="1027"/>
-  <place id="10535" country="Zambia" name="Nakonde" latitude="-9.3333333" longitude="32.7666664" altitude="1319"/>
-  <place id="10536" country="Zambia" name="Namwala" latitude="-15.75" longitude="26.4500008" altitude="1008"/>
-  <place id="10537" country="Zambia" name="Nchelenge" latitude="-9.35" longitude="28.7333336" altitude="919"/>
-  <place id="10538" country="Zambia" name="Ndola" latitude="-12.9666667" longitude="28.6333332" altitude="1269"/>
-  <place id="10539" country="Zambia" name="Nyimba" latitude="-14.55" longitude="30.833334" altitude="637"/>
-  <place id="10540" country="Zambia" name="Petauke" latitude="-14.25" longitude="31.333334" altitude="939"/>
-  <place id="10541" country="Zambia" name="Samfya" latitude="-11.35" longitude="29.5499992" altitude="1155"/>
-  <place id="10542" country="Zambia" name="Senanga" latitude="-16.1166667" longitude="23.2666664" altitude="968"/>
-  <place id="10543" country="Zambia" name="Serenje" latitude="-13.2333333" longitude="30.2333336" altitude="1402"/>
-  <place id="10544" country="Zambia" name="Sesheke" latitude="-17.4666667" longitude="24.2999992" altitude="800"/>
-  <place id="10545" country="Zambia" name="Siavonga" latitude="-16.5333333" longitude="28.7166672" altitude="481"/>
-  <place id="10546" country="Zambia" name="Sinazongwe" latitude="-17.25" longitude="27.4666672" altitude="539"/>
-  <place id="10547" country="Zambia" name="Solwezi" latitude="-12.1833333" longitude="26.3999996" altitude="1373"/>
-  <place id="10548" country="Zambia" name="Zambezi" latitude="-13.55" longitude="23.1166668" altitude="1091"/>
-  <place id="10549" country="Zimbabwe" name="Banket" latitude="-17.3833333" longitude="30.3999996" altitude="1229"/>
-  <place id="10550" country="Zimbabwe" name="Beatrice" latitude="-18.2666667" longitude="30.8666668" altitude="1288"/>
-  <place id="10551" country="Zimbabwe" name="Beitbridge" latitude="-22.2166667" longitude="30" altitude="468"/>
-  <place id="10552" country="Zimbabwe" name="Bindura" latitude="-17.2963889" longitude="31.3297215" altitude="1130"/>
-  <place id="10553" country="Zimbabwe" name="Binga" latitude="-17.6166667" longitude="27.333334" altitude="371"/>
-  <place id="10554" country="Zimbabwe" name="Bulawayo" latitude="-20.15" longitude="28.583334" altitude="1353"/>
-  <place id="10555" country="Zimbabwe" name="Centenary" latitude="-16.8" longitude="31.1166668" altitude="1176"/>
-  <place id="10556" country="Zimbabwe" name="Chakari" latitude="-18.0666667" longitude="29.8500004" altitude="1095"/>
-  <place id="10557" country="Zimbabwe" name="Chegutu" latitude="-18.1333333" longitude="30.1499996" altitude="1166"/>
-  <place id="10558" country="Zimbabwe" name="Chimanimani" latitude="-19.8" longitude="32.8666649" altitude="1470"/>
-  <place id="10559" country="Zimbabwe" name="Chinhoyi" latitude="-17.3666667" longitude="30.2000008" altitude="1187"/>
-  <place id="10560" country="Zimbabwe" name="Chipinge" latitude="-20.2" longitude="32.6166649" altitude="1016"/>
-  <place id="10561" country="Zimbabwe" name="Chiredzi" latitude="-21.05" longitude="31.666666" altitude="438"/>
-  <place id="10562" country="Zimbabwe" name="Chirundu" latitude="-16.0333333" longitude="28.8500004" altitude="352"/>
-  <place id="10563" country="Zimbabwe" name="Chitungwiza" latitude="-17.9938889" longitude="31.0480556" altitude="1413"/>
-  <place id="10564" country="Zimbabwe" name="Chivhu" latitude="-19.0166667" longitude="30.8999996" altitude="1460"/>
-  <place id="10565" country="Zimbabwe" name="Concession" latitude="-17.3833333" longitude="30.9500008" altitude="1348"/>
-  <place id="10566" country="Zimbabwe" name="Dete" latitude="-18.6166667" longitude="26.8666668" altitude="1092"/>
-  <place id="10567" country="Zimbabwe" name="Dorowa Mining Lease" latitude="-19.0666667" longitude="31.75" altitude="890"/>
-  <place id="10568" country="Zimbabwe" name="Epworth" latitude="-17.89" longitude="31.1474991" altitude="1473"/>
-  <place id="10569" country="Zimbabwe" name="Esigodini" latitude="-20.3" longitude="28.9333324" altitude="1193"/>
-  <place id="10570" country="Zimbabwe" name="Filabusi" latitude="-20.5333333" longitude="29.2833328" altitude="1082"/>
-  <place id="10571" country="Zimbabwe" name="Glendale" latitude="-17.3605556" longitude="31.0597229" altitude="1143"/>
-  <place id="10572" country="Zimbabwe" name="Gokwe" latitude="-18.2166667" longitude="28.9333324" altitude="1227"/>
-  <place id="10573" country="Zimbabwe" name="Gwanda" latitude="-20.9333333" longitude="29" altitude="974"/>
-  <place id="10574" country="Zimbabwe" name="Gweru" latitude="-19.45" longitude="29.8166676" altitude="1425"/>
-  <place id="10575" country="Zimbabwe" name="Harare" latitude="-17.8177778" longitude="31.0447216" altitude="1481"/>
-  <place id="10576" country="Zimbabwe" name="Headlands" latitude="-18.2833333" longitude="32.0499992" altitude="1585"/>
-  <place id="10577" country="Zimbabwe" name="Hwange" latitude="-18.3666667" longitude="26.4833336" altitude="780"/>
-  <place id="10578" country="Zimbabwe" name="Insiza" latitude="-19.7833333" longitude="29.2000008" altitude="1427"/>
-  <place id="10579" country="Zimbabwe" name="Inyati" latitude="-19.6833333" longitude="28.8500004" altitude="1351"/>
-  <place id="10580" country="Zimbabwe" name="Kadoma" latitude="-18.35" longitude="29.916666" altitude="1126"/>
-  <place id="10581" country="Zimbabwe" name="Kamativi" latitude="-18.3166667" longitude="27.0666676" altitude="941"/>
-  <place id="10582" country="Zimbabwe" name="Kariba" latitude="-16.5166667" longitude="28.7999992" altitude="619"/>
-  <place id="10583" country="Zimbabwe" name="Karoi" latitude="-16.8166667" longitude="29.6833324" altitude="1241"/>
-  <place id="10584" country="Zimbabwe" name="Kwekwe" latitude="-18.9166667" longitude="29.8166676" altitude="1197"/>
-  <place id="10585" country="Zimbabwe" name="Lalapansi" latitude="-19.3333333" longitude="30.1833324" altitude="1493"/>
-  <place id="10586" country="Zimbabwe" name="Macheke" latitude="-18.15" longitude="31.8500004" altitude="1587"/>
-  <place id="10587" country="Zimbabwe" name="Madziwa" latitude="-16.9166667" longitude="31.5333328" altitude="1108"/>
-  <place id="10588" country="Zimbabwe" name="Marondera" latitude="-18.1833333" longitude="31.5499992" altitude="1692"/>
-  <place id="10589" country="Zimbabwe" name="Mashava" latitude="-20.05" longitude="30.4833336" altitude="969"/>
-  <place id="10590" country="Zimbabwe" name="Masvingo" latitude="-20.0833333" longitude="30.833334" altitude="1029"/>
-  <place id="10591" country="Zimbabwe" name="Mazowe" latitude="-17.5166667" longitude="30.9666672" altitude="1232"/>
-  <place id="10592" country="Zimbabwe" name="Mhangura" latitude="-16.9" longitude="30.1499996" altitude="1128"/>
-  <place id="10593" country="Zimbabwe" name="Mount Darwin" latitude="-16.7833333" longitude="31.583334" altitude="984"/>
-  <place id="10594" country="Zimbabwe" name="Murewa" latitude="-17.6469444" longitude="31.7775002" altitude="1363"/>
-  <place id="10595" country="Zimbabwe" name="Mutare" latitude="-18.9666667" longitude="32.6666679" altitude="1095"/>
-  <place id="10596" country="Zimbabwe" name="Mutoko" latitude="-17.4" longitude="32.2166672" altitude="1285"/>
-  <place id="10597" country="Zimbabwe" name="Mvuma" latitude="-19.2833333" longitude="30.5333328" altitude="1406"/>
-  <place id="10598" country="Zimbabwe" name="Mvurwi" latitude="-17.0333333" longitude="30.8500004" altitude="1484"/>
-  <place id="10599" country="Zimbabwe" name="Norton" latitude="-17.8833333" longitude="30.7000008" altitude="1360"/>
-  <place id="10600" country="Zimbabwe" name="Nyanga" latitude="-18.2166667" longitude="32.75" altitude="1738"/>
-  <place id="10601" country="Zimbabwe" name="Nyazura" latitude="-18.7166667" longitude="32.1666679" altitude="1220"/>
-  <place id="10602" country="Zimbabwe" name="Odzi" latitude="-18.9666667" longitude="32.3833351" altitude="1033"/>
-  <place id="10603" country="Zimbabwe" name="Penhalonga" latitude="-18.8833333" longitude="32.6833344" altitude="1108"/>
-  <place id="10604" country="Zimbabwe" name="Plumtree" latitude="-20.4833333" longitude="27.8166676" altitude="1374"/>
-  <place id="10605" country="Zimbabwe" name="Raffingora" latitude="-17.0333333" longitude="30.4333324" altitude="1090"/>
-  <place id="10606" country="Zimbabwe" name="Redcliff" latitude="-19.0333333" longitude="29.7833328" altitude="1211"/>
-  <place id="10607" country="Zimbabwe" name="Rusape" latitude="-18.5333333" longitude="32.1166649" altitude="1350"/>
-  <place id="10608" country="Zimbabwe" name="Shamva" latitude="-17.3155556" longitude="31.5705547" altitude="914"/>
-  <place id="10609" country="Zimbabwe" name="Shangani" latitude="-19.7833333" longitude="29.3666668" altitude="1355"/>
-  <place id="10610" country="Zimbabwe" name="Shurugwi" latitude="-19.6666667" longitude="30" altitude="1502"/>
-  <place id="10611" country="Zimbabwe" name="Victoria Falls" latitude="-17.9333333" longitude="25.833334" altitude="983"/>
-  <place id="10612" country="Zimbabwe" name="Zvishavane" latitude="-20.3333333" longitude="30.0333328" altitude="912"/>
-  <place id="10613" country="Zimbabwe" name="Zvishavane District" latitude="-20.25" longitude="30.083334" altitude="950"/>
+  <place id="10196" country="United States" name="Stony Brook; NY" latitude="40.906389" longitude="-73.128333" altitude="27"/>
+  <place id="10197" country="United States" name="Tampa" latitude="27.9475216" longitude="-82.4584274" altitude="1"/>
+  <place id="10198" country="United States" name="Toledo" latitude="41.6639383" longitude="-83.5552139" altitude="191"/>
+  <place id="10199" country="United States" name="Tucson" latitude="32.2217429" longitude="-110.9264755" altitude="751"/>
+  <place id="10200" country="United States" name="Tulsa" latitude="36.1539816" longitude="-95.992775" altitude="213"/>
+  <place id="10201" country="United States" name="Virginia Beach" latitude="36.8529263" longitude="-75.9779816" altitude="3"/>
+  <place id="10202" country="United States" name="Washington" latitude="38.8951118" longitude="-77.0363693" altitude="11"/>
+  <place id="10203" country="United States" name="West Raleigh" latitude="35.7868182" longitude="-78.6638947" altitude="122"/>
+  <place id="10204" country="United States" name="Wichita" latitude="37.6922361" longitude="-97.3375473" altitude="402"/>
+  <place id="10205" country="Uruguay" name="Acegua" latitude="-31.8666667" longitude="-54.2000008" altitude="235"/>
+  <place id="10206" country="Uruguay" name="Aigua" latitude="-34.2" longitude="-54.75" altitude="112"/>
+  <place id="10207" country="Uruguay" name="Artigas" latitude="-30.4" longitude="-56.4666672" altitude="151"/>
+  <place id="10208" country="Uruguay" name="Atlantida" latitude="-34.7666667" longitude="-55.75" altitude="20"/>
+  <place id="10209" country="Uruguay" name="Baltasar Brum" latitude="-30.7333333" longitude="-57.3166656" altitude="118"/>
+  <place id="10210" country="Uruguay" name="Barra de Carrasco" latitude="-34.8772222" longitude="-56.0297203" altitude="2"/>
+  <place id="10211" country="Uruguay" name="Belen" latitude="-30.7833333" longitude="-57.7833328" altitude="32"/>
+  <place id="10212" country="Uruguay" name="Bella Union" latitude="-30.25" longitude="-57.5833321" altitude="48"/>
+  <place id="10213" country="Uruguay" name="Canelones" latitude="-34.5227778" longitude="-56.2777786" altitude="29"/>
+  <place id="10214" country="Uruguay" name="Cardona" latitude="-33.8833333" longitude="-57.3833351" altitude="163"/>
+  <place id="10215" country="Uruguay" name="Carmelo" latitude="-33.9891667" longitude="-58.2855568" altitude="19"/>
+  <place id="10216" country="Uruguay" name="Castillos" latitude="-34.1666667" longitude="-53.8333321" altitude="44"/>
+  <place id="10217" country="Uruguay" name="Casupa" latitude="-34.0333333" longitude="-55.6500015" altitude="150"/>
+  <place id="10218" country="Uruguay" name="Cebollati" latitude="-33.2666667" longitude="-53.7833328" altitude="4"/>
+  <place id="10219" country="Uruguay" name="Chuy" latitude="-33.6833333" longitude="-53.4500008" altitude="2"/>
+  <place id="10220" country="Uruguay" name="Colonia del Sacramento" latitude="-34.4666667" longitude="-57.8499985" altitude="28"/>
+  <place id="10221" country="Uruguay" name="Colonia Nicolich" latitude="-34.8130556" longitude="-56.0447235" altitude="9"/>
+  <place id="10222" country="Uruguay" name="Constitucion" latitude="-31.0833333" longitude="-57.8333321" altitude="52"/>
+  <place id="10223" country="Uruguay" name="Delta del Tigre" latitude="-34.7633333" longitude="-56.3852768" altitude="19"/>
+  <place id="10224" country="Uruguay" name="Dolores" latitude="-33.5441667" longitude="-58.1972237" altitude="30"/>
+  <place id="10225" country="Uruguay" name="Durazno" latitude="-33.4130556" longitude="-56.5005569" altitude="91"/>
+  <place id="10226" country="Uruguay" name="Ecilda Paullier" latitude="-34.3666667" longitude="-57.0666656" altitude="61"/>
+  <place id="10227" country="Uruguay" name="Empalme Olmos" latitude="-34.7" longitude="-55.9000015" altitude="40"/>
+  <place id="10228" country="Uruguay" name="Florencio Sanchez" latitude="-33.8833333" longitude="-57.4000015" altitude="156"/>
+  <place id="10229" country="Uruguay" name="Florida" latitude="-34.0955556" longitude="-56.2141685" altitude="74"/>
+  <place id="10230" country="Uruguay" name="Fray Bentos" latitude="-33.1325" longitude="-58.2955551" altitude="43"/>
+  <place id="10231" country="Uruguay" name="Guichon" latitude="-32.35" longitude="-57.2000008" altitude="92"/>
+  <place id="10232" country="Uruguay" name="Isidoro Noblia" latitude="-31.8333333" longitude="-54.1666679" altitude="152"/>
+  <place id="10233" country="Uruguay" name="Joaquin Suarez" latitude="-34.7336111" longitude="-56.0366669" altitude="58"/>
+  <place id="10234" country="Uruguay" name="Jose Batlle y Ordonez" latitude="-33.4666667" longitude="-55.1166649" altitude="277"/>
+  <place id="10235" country="Uruguay" name="Jose Enrique Rodo" latitude="-33.6833333" longitude="-57.5666656" altitude="132"/>
+  <place id="10236" country="Uruguay" name="Jose Pedro Varela" latitude="-33.45" longitude="-54.5333328" altitude="60"/>
+  <place id="10237" country="Uruguay" name="Juan L. Lacaze" latitude="-34.4333333" longitude="-57.4166679" altitude="5"/>
+  <place id="10238" country="Uruguay" name="La Paloma" latitude="-34.6666667" longitude="-54.1666679" altitude="1"/>
+  <place id="10239" country="Uruguay" name="La Paloma" latitude="-32.7166667" longitude="-55.5999985" altitude="71"/>
+  <place id="10240" country="Uruguay" name="La Paz" latitude="-34.7616667" longitude="-56.2236099" altitude="50"/>
+  <place id="10241" country="Uruguay" name="Las Piedras" latitude="-34.7263889" longitude="-56.2200012" altitude="81"/>
+  <place id="10242" country="Uruguay" name="Las Piedras" latitude="-30.2333333" longitude="-57.5833321" altitude="43"/>
+  <place id="10243" country="Uruguay" name="Las Toscas" latitude="-34.7333333" longitude="-55.7166672" altitude="5"/>
+  <place id="10244" country="Uruguay" name="Lascano" latitude="-33.6666667" longitude="-54.2000008" altitude="3"/>
+  <place id="10245" country="Uruguay" name="Libertad" latitude="-34.6333333" longitude="-56.6191673" altitude="40"/>
+  <place id="10246" country="Uruguay" name="Los Cerrillos" latitude="-34.605" longitude="-56.3563881" altitude="62"/>
+  <place id="10247" country="Uruguay" name="Maldonado" latitude="-34.9" longitude="-54.9500008" altitude="21"/>
+  <place id="10248" country="Uruguay" name="Mariscala" latitude="-34.05" longitude="-54.7833328" altitude="92"/>
+  <place id="10249" country="Uruguay" name="Melo" latitude="-32.3666667" longitude="-54.1833344" altitude="81"/>
+  <place id="10250" country="Uruguay" name="Mercedes" latitude="-33.2558333" longitude="-58.019165" altitude="41"/>
+  <place id="10251" country="Uruguay" name="Migues" latitude="-34.4833333" longitude="-55.6500015" altitude="59"/>
+  <place id="10252" country="Uruguay" name="Minas" latitude="-34.37" longitude="-55.2249985" altitude="148"/>
+  <place id="10253" country="Uruguay" name="Minas de Corrales" latitude="-31.5833333" longitude="-55.4666672" altitude="111"/>
+  <place id="10254" country="Uruguay" name="Montes" latitude="-34.5" longitude="-55.5833321" altitude="50"/>
+  <place id="10255" country="Uruguay" name="Montevideo" latitude="-34.8580556" longitude="-56.1708336" altitude="78"/>
+  <place id="10256" country="Uruguay" name="Nueva Helvecia" latitude="-34.3" longitude="-57.2333336" altitude="42"/>
+  <place id="10257" country="Uruguay" name="Nueva Palmira" latitude="-33.8833333" longitude="-58.4166679" altitude="9"/>
+  <place id="10258" country="Uruguay" name="Nuevo Berlin" latitude="-32.9833333" longitude="-58.0499992" altitude="20"/>
+  <place id="10259" country="Uruguay" name="Ombues de Lavalle" latitude="-33.9166667" longitude="-57.7833328" altitude="120"/>
+  <place id="10260" country="Uruguay" name="Pajas Blancas" latitude="-34.8016667" longitude="-56.3341675" altitude="44"/>
+  <place id="10261" country="Uruguay" name="Palmitas" latitude="-33.5166667" longitude="-57.8333321" altitude="89"/>
+  <place id="10262" country="Uruguay" name="Pan de Azucar" latitude="-34.8" longitude="-55.2333336" altitude="79"/>
+  <place id="10263" country="Uruguay" name="Pando" latitude="-34.7166667" longitude="-55.9500008" altitude="11"/>
+  <place id="10264" country="Uruguay" name="Paso de Carrasco" latitude="-34.8602778" longitude="-56.0522232" altitude="20"/>
+  <place id="10265" country="Uruguay" name="Paso de los Toros" latitude="-32.8166667" longitude="-56.5166664" altitude="54"/>
+  <place id="10266" country="Uruguay" name="Paysandu" latitude="-32.3213889" longitude="-58.0755539" altitude="50"/>
+  <place id="10267" country="Uruguay" name="Piriapolis" latitude="-34.8681866" longitude="-55.2743645" altitude="23"/>
+  <place id="10268" country="Uruguay" name="Progreso" latitude="-34.665" longitude="-56.2194443" altitude="53"/>
+  <place id="10269" country="Uruguay" name="Punta del Este" latitude="-34.9666667" longitude="-54.9500008" altitude="1"/>
+  <place id="10270" country="Uruguay" name="Quebracho" latitude="-31.95" longitude="-57.8833351" altitude="39"/>
+  <place id="10271" country="Uruguay" name="Rio Branco" latitude="-32.5666667" longitude="-53.4166679" altitude="17"/>
+  <place id="10272" country="Uruguay" name="Rivera" latitude="-30.9" longitude="-55.5166664" altitude="204"/>
+  <place id="10273" country="Uruguay" name="Rocha" latitude="-34.4833333" longitude="-54.3333321" altitude="8"/>
+  <place id="10274" country="Uruguay" name="Rodriguez" latitude="-34.3827778" longitude="-56.5416679" altitude="52"/>
+  <place id="10275" country="Uruguay" name="Rosario" latitude="-34.3166667" longitude="-57.3499985" altitude="19"/>
+  <place id="10276" country="Uruguay" name="Salto" latitude="-31.3833333" longitude="-57.9666672" altitude="47"/>
+  <place id="10277" country="Uruguay" name="San Bautista" latitude="-34.4333333" longitude="-55.9833336" altitude="71"/>
+  <place id="10278" country="Uruguay" name="San Carlos" latitude="-34.8" longitude="-54.9166679" altitude="2"/>
+  <place id="10279" country="Uruguay" name="San Jacinto" latitude="-34.55" longitude="-55.8833351" altitude="48"/>
+  <place id="10280" country="Uruguay" name="San Javier" latitude="-32.6833333" longitude="-58.1333351" altitude="2"/>
+  <place id="10281" country="Uruguay" name="San Jose de Mayo" latitude="-34.3375" longitude="-56.7136116" altitude="53"/>
+  <place id="10282" country="Uruguay" name="San Ramon" latitude="-34.3" longitude="-55.9666672" altitude="51"/>
+  <place id="10283" country="Uruguay" name="Santa Clara de Olimar" latitude="-32.9166667" longitude="-54.9666672" altitude="304"/>
+  <place id="10284" country="Uruguay" name="Santa Lucia" latitude="-34.4533333" longitude="-56.3905563" altitude="35"/>
+  <place id="10285" country="Uruguay" name="Santa Rosa" latitude="-34.4975" longitude="-56.0372238" altitude="63"/>
+  <place id="10286" country="Uruguay" name="Sarandi del Yi" latitude="-33.35" longitude="-55.6333351" altitude="105"/>
+  <place id="10287" country="Uruguay" name="Sarandi Grande" latitude="-33.7333333" longitude="-56.3333321" altitude="130"/>
+  <place id="10288" country="Uruguay" name="Sauce" latitude="-34.6469444" longitude="-56.0627785" altitude="65"/>
+  <place id="10289" country="Uruguay" name="Soca" latitude="-34.6833333" longitude="-55.6833344" altitude="28"/>
+  <place id="10290" country="Uruguay" name="Solis de Mataojo" latitude="-34.6" longitude="-55.4833336" altitude="12"/>
+  <place id="10291" country="Uruguay" name="Tacuarembo" latitude="-31.7333333" longitude="-55.9833336" altitude="140"/>
+  <place id="10292" country="Uruguay" name="Tala" latitude="-34.35" longitude="-55.7666664" altitude="49"/>
+  <place id="10293" country="Uruguay" name="Tarariras" latitude="-34.2833333" longitude="-57.6166649" altitude="100"/>
+  <place id="10294" country="Uruguay" name="Toledo" latitude="-34.7422222" longitude="-56.0983315" altitude="69"/>
+  <place id="10295" country="Uruguay" name="Tomas Gomensoro" latitude="-30.4333333" longitude="-57.4333344" altitude="82"/>
+  <place id="10296" country="Uruguay" name="Tranqueras" latitude="-31.2" longitude="-55.75" altitude="164"/>
+  <place id="10297" country="Uruguay" name="Treinta y Tres" latitude="-33.2333333" longitude="-54.3833351" altitude="63"/>
+  <place id="10298" country="Uruguay" name="Trinidad" latitude="-33.5388889" longitude="-56.8886108" altitude="134"/>
+  <place id="10299" country="Uruguay" name="Veinticinco de Agosto" latitude="-34.4116667" longitude="-56.4022217" altitude="29"/>
+  <place id="10300" country="Uruguay" name="Veinticinco de Mayo" latitude="-34.1891667" longitude="-56.3394432" altitude="58"/>
+  <place id="10301" country="Uruguay" name="Vergara" latitude="-32.9333333" longitude="-53.9500008" altitude="17"/>
+  <place id="10302" country="Uruguay" name="Vichadero" latitude="-31.8" longitude="-54.7166672" altitude="184"/>
+  <place id="10303" country="Uruguay" name="Villa del Carmen" latitude="-33.25" longitude="-56.0166664" altitude="156"/>
+  <place id="10304" country="Uruguay" name="Young" latitude="-32.6833333" longitude="-57.6333351" altitude="63"/>
+  <place id="10305" country="Venezuela" name="Acarigua" latitude="9.5597222" longitude="-69.2019424" altitude="199"/>
+  <place id="10306" country="Venezuela" name="Altagracia de Orituco" latitude="9.8622222" longitude="-66.3805542" altitude="499"/>
+  <place id="10307" country="Venezuela" name="Alto Barinas" latitude="8.5944444" longitude="-70.2222214" altitude="207"/>
+  <place id="10308" country="Venezuela" name="Anaco" latitude="9.4388889" longitude="-64.4727783" altitude="205"/>
+  <place id="10309" country="Venezuela" name="Araure" latitude="9.5666667" longitude="-69.2166672" altitude="207"/>
+  <place id="10310" country="Venezuela" name="Barcelona" latitude="10.1333333" longitude="-64.6999969" altitude="3"/>
+  <place id="10311" country="Venezuela" name="Barinitas" latitude="8.7622222" longitude="-70.4111099" altitude="463"/>
+  <place id="10312" country="Venezuela" name="Barquisimeto" latitude="10.0738889" longitude="-69.3227768" altitude="573"/>
+  <place id="10313" country="Venezuela" name="Baruta" latitude="10.4333333" longitude="-66.8833313" altitude="1179"/>
+  <place id="10314" country="Venezuela" name="Cabimas" latitude="10.4019444" longitude="-71.4461136" altitude="11"/>
+  <place id="10315" country="Venezuela" name="Cagua" latitude="10.1833333" longitude="-67.4499969" altitude="576"/>
+  <place id="10316" country="Venezuela" name="Calabozo" latitude="8.9344444" longitude="-67.4266663" altitude="78"/>
+  <place id="10317" country="Venezuela" name="Cantaura" latitude="9.3105556" longitude="-64.3594437" altitude="248"/>
+  <place id="10318" country="Venezuela" name="Caraballeda" latitude="10.6166667" longitude="-66.8333359" altitude="-9999"/>
+  <place id="10319" country="Venezuela" name="Caracas" latitude="10.5" longitude="-66.9166641" altitude="920"/>
+  <place id="10320" country="Venezuela" name="Carora" latitude="10.1777778" longitude="-70.0805588" altitude="508"/>
+  <place id="10321" country="Venezuela" name="Carrizal" latitude="10.35" longitude="-66.9833298" altitude="1161"/>
+  <place id="10322" country="Venezuela" name="Carupano" latitude="10.6697222" longitude="-63.2491684" altitude="38"/>
+  <place id="10323" country="Venezuela" name="Catia La Mar" latitude="10.6" longitude="-67.0333328" altitude="82"/>
+  <place id="10324" country="Venezuela" name="Caucaguito" latitude="10.4833333" longitude="-66.7333298" altitude="570"/>
+  <place id="10325" country="Venezuela" name="Chacao" latitude="10.5" longitude="-66.8499985" altitude="898"/>
+  <place id="10326" country="Venezuela" name="Charallave" latitude="10.2483333" longitude="-66.8566666" altitude="405"/>
+  <place id="10327" country="Venezuela" name="Chivacoa" latitude="10.1602778" longitude="-68.8949966" altitude="305"/>
+  <place id="10328" country="Venezuela" name="Ciudad Bolivar" latitude="8.1222222" longitude="-63.5497208" altitude="73"/>
+  <place id="10329" country="Venezuela" name="Ciudad Guayana" latitude="8.3533333" longitude="-62.6527786" altitude="7"/>
+  <place id="10330" country="Venezuela" name="Coro" latitude="11.4091667" longitude="-69.6672211" altitude="28"/>
+  <place id="10331" country="Venezuela" name="Cua" latitude="10.1622222" longitude="-66.8852768" altitude="246"/>
+  <place id="10332" country="Venezuela" name="Cumana" latitude="10.4666667" longitude="-64.1666641" altitude="4"/>
+  <place id="10333" country="Venezuela" name="Ejido" latitude="8.5513889" longitude="-71.2375031" altitude="1163"/>
+  <place id="10334" country="Venezuela" name="El Cafetal" latitude="10.4666667" longitude="-66.827774" altitude="874"/>
+  <place id="10335" country="Venezuela" name="El Diario de Yaracuy" latitude="10.341692" longitude="-68.7328033" altitude="207"/>
+  <place id="10336" country="Venezuela" name="El Hatillo" latitude="10.4333333" longitude="-66.8166656" altitude="1211"/>
+  <place id="10337" country="Venezuela" name="El Limon" latitude="10.3091667" longitude="-67.6324997" altitude="597"/>
+  <place id="10338" country="Venezuela" name="El Tigre" latitude="8.8925" longitude="-64.2527771" altitude="276"/>
+  <place id="10339" country="Venezuela" name="El Tocuyo" latitude="9.7861111" longitude="-69.789444" altitude="690"/>
+  <place id="10340" country="Venezuela" name="El Vigia" latitude="8.6219444" longitude="-71.6505585" altitude="152"/>
+  <place id="10341" country="Venezuela" name="Guacara" latitude="10.2297222" longitude="-67.8738861" altitude="581"/>
+  <place id="10342" country="Venezuela" name="Guanare" latitude="9.05" longitude="-69.75" altitude="173"/>
+  <place id="10343" country="Venezuela" name="Guarenas" latitude="10.4666667" longitude="-66.6166687" altitude="523"/>
+  <place id="10344" country="Venezuela" name="Guasdalito" latitude="7.2472222" longitude="-70.7294464" altitude="125"/>
+  <place id="10345" country="Venezuela" name="Guatire" latitude="10.4666667" longitude="-66.5333328" altitude="408"/>
+  <place id="10346" country="Venezuela" name="Guigue" latitude="10.0852778" longitude="-67.7791672" altitude="590"/>
+  <place id="10347" country="Venezuela" name="La Asuncion" latitude="11.0333333" longitude="-63.8627777" altitude="67"/>
+  <place id="10348" country="Venezuela" name="La Dolorita" latitude="10.4905556" longitude="-66.7833328" altitude="973"/>
+  <place id="10349" country="Venezuela" name="La Fria" latitude="8.2188889" longitude="-72.2483368" altitude="152"/>
+  <place id="10350" country="Venezuela" name="La Guaira" latitude="10.599011" longitude="-66.9346008" altitude="150"/>
+  <place id="10351" country="Venezuela" name="La Victoria" latitude="10.2333333" longitude="-67.3333359" altitude="612"/>
+  <place id="10352" country="Venezuela" name="Lagunillas" latitude="10.1408333" longitude="-71.2613907" altitude="1"/>
+  <place id="10353" country="Venezuela" name="Las Tejerias" latitude="10.25" longitude="-67.1666641" altitude="496"/>
+  <place id="10354" country="Venezuela" name="Los Dos Caminos" latitude="10.5166667" longitude="-66.8333359" altitude="1466"/>
+  <place id="10355" country="Venezuela" name="Los Rastrojos" latitude="10.0227778" longitude="-69.2444458" altitude="467"/>
+  <place id="10356" country="Venezuela" name="Machiques" latitude="10.0644444" longitude="-72.5449982" altitude="130"/>
+  <place id="10357" country="Venezuela" name="Maiquetia" latitude="10.6" longitude="-66.9499969" altitude="105"/>
+  <place id="10358" country="Venezuela" name="Maracaibo" latitude="10.6316667" longitude="-71.6405563" altitude="3"/>
+  <place id="10359" country="Venezuela" name="Mariara" latitude="10.2983333" longitude="-67.7161102" altitude="608"/>
+  <place id="10360" country="Venezuela" name="Maturin" latitude="9.75" longitude="-63.1766663" altitude="55"/>
+  <place id="10361" country="Venezuela" name="Merida" latitude="8.5983333" longitude="-71.1449966" altitude="1473"/>
+  <place id="10362" country="Venezuela" name="Moron" latitude="10.4888889" longitude="-68.2002792" altitude="19"/>
+  <place id="10363" country="Venezuela" name="Mucumpiz" latitude="8.4166667" longitude="-71.1333313" altitude="2163"/>
+  <place id="10364" country="Venezuela" name="Nirgua" latitude="10.155" longitude="-68.5630569" altitude="874"/>
+  <place id="10365" country="Venezuela" name="Ocumare del Tuy" latitude="10.1216667" longitude="-66.7716675" altitude="178"/>
+  <place id="10366" country="Venezuela" name="Palo Negro" latitude="10.1738889" longitude="-67.5419464" altitude="593"/>
+  <place id="10367" country="Venezuela" name="Petare" latitude="10.4833333" longitude="-66.8166656" altitude="867"/>
+  <place id="10368" country="Venezuela" name="Porlamar" latitude="10.95" longitude="-63.8499985" altitude="-9999"/>
+  <place id="10369" country="Venezuela" name="Puerto Ayacucho" latitude="5.6638889" longitude="-67.6236115" altitude="69"/>
+  <place id="10370" country="Venezuela" name="Puerto Cabello" latitude="10.4730556" longitude="-68.0124969" altitude="49"/>
+  <place id="10371" country="Venezuela" name="Puerto La Cruz" latitude="10.2166667" longitude="-64.6166687" altitude="64"/>
+  <place id="10372" country="Venezuela" name="Punta Cardon" latitude="11.6580556" longitude="-70.2149963" altitude="4"/>
+  <place id="10373" country="Venezuela" name="Punto Fijo" latitude="11.6997222" longitude="-70.1991653" altitude="4"/>
+  <place id="10374" country="Venezuela" name="Quibor" latitude="9.9255556" longitude="-69.6202774" altitude="799"/>
+  <place id="10375" country="Venezuela" name="Rosario" latitude="10.3166667" longitude="-72.3166656" altitude="101"/>
+  <place id="10376" country="Venezuela" name="Rubio" latitude="7.7072222" longitude="-72.3538895" altitude="869"/>
+  <place id="10377" country="Venezuela" name="San Antonio de Los Altos" latitude="10.3666667" longitude="-66.9333344" altitude="1220"/>
+  <place id="10378" country="Venezuela" name="San Antonio del Tachira" latitude="7.8177778" longitude="-72.4424973" altitude="610"/>
+  <place id="10379" country="Venezuela" name="San Carlos" latitude="9.6666667" longitude="-68.5999985" altitude="138"/>
+  <place id="10380" country="Venezuela" name="San Carlos del Zulia" latitude="9.0041667" longitude="-71.9163895" altitude="6"/>
+  <place id="10381" country="Venezuela" name="San Cristobal" latitude="7.7669444" longitude="-72.2249985" altitude="881"/>
+  <place id="10382" country="Venezuela" name="San Felipe" latitude="10.3405556" longitude="-68.7372208" altitude="207"/>
+  <place id="10383" country="Venezuela" name="San Fernando Apure" latitude="7.8966667" longitude="-67.4672241" altitude="27"/>
+  <place id="10384" country="Venezuela" name="San Joaquin" latitude="10.2625" longitude="-67.7922211" altitude="533"/>
+  <place id="10385" country="Venezuela" name="San Jose de Guanipa" latitude="8.8933333" longitude="-64.1591644" altitude="248"/>
+  <place id="10386" country="Venezuela" name="San Juan de Colon" latitude="8.0377778" longitude="-72.2519455" altitude="809"/>
+  <place id="10387" country="Venezuela" name="San Juan de los Morros" latitude="9.9111111" longitude="-67.3583298" altitude="512"/>
+  <place id="10388" country="Venezuela" name="San Mateo" latitude="10.2166667" longitude="-67.4166641" altitude="620"/>
+  <place id="10389" country="Venezuela" name="Santa Rita" latitude="10.5380556" longitude="-71.5169449" altitude="1"/>
+  <place id="10390" country="Venezuela" name="Santa Teresa" latitude="10.2313889" longitude="-66.6636124" altitude="135"/>
+  <place id="10391" country="Venezuela" name="Tacarigua" latitude="10.09" longitude="-67.9197235" altitude="596"/>
+  <place id="10392" country="Venezuela" name="Tariba" latitude="7.8236111" longitude="-72.2213898" altitude="910"/>
+  <place id="10393" country="Venezuela" name="Tinaquillo" latitude="9.9186111" longitude="-68.3047256" altitude="510"/>
+  <place id="10394" country="Venezuela" name="Trujillo" latitude="9.3666667" longitude="-70.4333344" altitude="1170"/>
+  <place id="10395" country="Venezuela" name="Tucupita" latitude="9.0686111" longitude="-62.0491676" altitude="1"/>
+  <place id="10396" country="Venezuela" name="Turmero" latitude="10.2333333" longitude="-67.4833298" altitude="602"/>
+  <place id="10397" country="Venezuela" name="Upata" latitude="8.0086111" longitude="-62.3988876" altitude="326"/>
+  <place id="10398" country="Venezuela" name="Valencia" latitude="10.1805556" longitude="-68.003891" altitude="558"/>
+  <place id="10399" country="Venezuela" name="Valera" latitude="9.3177778" longitude="-70.6036148" altitude="537"/>
+  <place id="10400" country="Venezuela" name="Valle de La Pascua" latitude="9.2166667" longitude="-66" altitude="154"/>
+  <place id="10401" country="Venezuela" name="Villa Bruzual" latitude="9.3327778" longitude="-69.1208344" altitude="122"/>
+  <place id="10402" country="Venezuela" name="Villa de Cura" latitude="10.0333333" longitude="-67.4833298" altitude="556"/>
+  <place id="10403" country="Venezuela" name="Yaritagua" latitude="10.08" longitude="-69.1261139" altitude="506"/>
+  <place id="10404" country="Venezuela" name="Zaraza" latitude="9.35" longitude="-65.3166656" altitude="52"/>
+  <place id="10405" country="Vietnam" name="Bac Giang" latitude="21.2666667" longitude="106.1999969" altitude="29"/>
+  <place id="10406" country="Vietnam" name="Bac Lieu" latitude="9.285" longitude="105.7244415" altitude="1"/>
+  <place id="10407" country="Vietnam" name="Bac Ninh" latitude="21.1833333" longitude="106.0500031" altitude="13"/>
+  <place id="10408" country="Vietnam" name="Ben Tre" latitude="10.2333333" longitude="106.3833313" altitude="1"/>
+  <place id="10409" country="Vietnam" name="Bien Hoa" latitude="10.95" longitude="106.8166656" altitude="16"/>
+  <place id="10410" country="Vietnam" name="Bim Son" latitude="20.0780556" longitude="105.8602753" altitude="9"/>
+  <place id="10411" country="Vietnam" name="Buon Ma Thuot" latitude="12.6666667" longitude="108.0500031" altitude="467"/>
+  <place id="10412" country="Vietnam" name="Ca Mau" latitude="9.1769444" longitude="105.1500015" altitude="1"/>
+  <place id="10413" country="Vietnam" name="Cam Pha Mines" latitude="21.0166667" longitude="107.3000031" altitude="306"/>
+  <place id="10414" country="Vietnam" name="Cam Ranh" latitude="11.9214391" longitude="109.1591263" altitude="20"/>
+  <place id="10415" country="Vietnam" name="Can Tho" latitude="10.0333333" longitude="105.7833328" altitude="1"/>
+  <place id="10416" country="Vietnam" name="Cao Bang" latitude="22.6666667" longitude="106.25" altitude="197"/>
+  <place id="10417" country="Vietnam" name="Chau Doc" latitude="10.7" longitude="105.1166687" altitude="1"/>
+  <place id="10418" country="Vietnam" name="Da Lat" latitude="11.9333333" longitude="108.4166641" altitude="1464"/>
+  <place id="10419" country="Vietnam" name="Da Nang" latitude="16.0677778" longitude="108.2208328" altitude="7"/>
+  <place id="10420" country="Vietnam" name="Dien Bien Phu" latitude="21.3833333" longitude="103.0166702" altitude="490"/>
+  <place id="10421" country="Vietnam" name="Dong Ha" latitude="16.8166667" longitude="107.1333313" altitude="6"/>
+  <place id="10422" country="Vietnam" name="Dong Hoi" latitude="17.4833333" longitude="106.5999985" altitude="13"/>
+  <place id="10423" country="Vietnam" name="Dong Xoai" latitude="11.5333333" longitude="106.9166641" altitude="85"/>
+  <place id="10424" country="Vietnam" name="Ha Dong" latitude="20.9725" longitude="105.7772217" altitude="27"/>
+  <place id="10425" country="Vietnam" name="Ha Giang" latitude="22.8333333" longitude="104.9833298" altitude="143"/>
+  <place id="10426" country="Vietnam" name="Ha Long" latitude="20.9511111" longitude="107.0800018" altitude="70"/>
+  <place id="10427" country="Vietnam" name="Ha Noi" latitude="21.0333333" longitude="105.8499985" altitude="26"/>
+  <place id="10428" country="Vietnam" name="Hai Duong" latitude="20.9333333" longitude="106.3166656" altitude="1"/>
+  <place id="10429" country="Vietnam" name="Haiphong" latitude="20.8561111" longitude="106.6822205" altitude="3"/>
+  <place id="10430" country="Vietnam" name="Hoa Binh" latitude="20.8133333" longitude="105.3383331" altitude="23"/>
+  <place id="10431" country="Vietnam" name="Hoi An" latitude="15.8794444" longitude="108.3349991" altitude="13"/>
+  <place id="10432" country="Vietnam" name="Hue" latitude="16.4666667" longitude="107.5999985" altitude="3"/>
+  <place id="10433" country="Vietnam" name="Kon Tum" latitude="14.35" longitude="108" altitude="530"/>
+  <place id="10434" country="Vietnam" name="Lao Cai" latitude="22.4833333" longitude="103.9499969" altitude="233"/>
+  <place id="10435" country="Vietnam" name="Long Xuyen" latitude="10.3833333" longitude="105.4166641" altitude="2"/>
+  <place id="10436" country="Vietnam" name="My Tho" latitude="10.35" longitude="106.3499985" altitude="1"/>
+  <place id="10437" country="Vietnam" name="Nam Dinh" latitude="20.4166667" longitude="106.1666641" altitude="1"/>
+  <place id="10438" country="Vietnam" name="Nha Trang" latitude="12.25" longitude="109.1833344" altitude="3"/>
+  <place id="10439" country="Vietnam" name="Ninh Binh" latitude="20.2538889" longitude="105.9749985" altitude="12"/>
+  <place id="10440" country="Vietnam" name="Phan Rang-Thap Cham" latitude="11.5666667" longitude="108.9833298" altitude="6"/>
+  <place id="10441" country="Vietnam" name="Phan Thiet" latitude="10.9333333" longitude="108.0999985" altitude="10"/>
+  <place id="10442" country="Vietnam" name="Phu Khuong" latitude="11.2833333" longitude="106.1333313" altitude="19"/>
+  <place id="10443" country="Vietnam" name="Phu Ly" latitude="20.5411111" longitude="105.913887" altitude="22"/>
+  <place id="10444" country="Vietnam" name="Pleiku" latitude="13.9833333" longitude="108" altitude="756"/>
+  <place id="10445" country="Vietnam" name="Quang Ngai" latitude="15.1166667" longitude="108.8000031" altitude="14"/>
+  <place id="10446" country="Vietnam" name="Quy Nhon" latitude="13.7666667" longitude="109.2333298" altitude="8"/>
+  <place id="10447" country="Vietnam" name="Rach Gia" latitude="10.0166667" longitude="105.0833359" altitude="1"/>
+  <place id="10448" country="Vietnam" name="Sa Dec" latitude="10.3" longitude="105.7666702" altitude="1"/>
+  <place id="10449" country="Vietnam" name="Soc Trang" latitude="9.6033333" longitude="105.9800034" altitude="1"/>
+  <place id="10450" country="Vietnam" name="Son La" latitude="21.3166667" longitude="103.9000015" altitude="673"/>
+  <place id="10451" country="Vietnam" name="Son Tay" latitude="21.1377778" longitude="105.5049973" altitude="23"/>
+  <place id="10452" country="Vietnam" name="Tam Ky" latitude="15.5666667" longitude="108.4833298" altitude="14"/>
+  <place id="10453" country="Vietnam" name="Tan An" latitude="10.5333333" longitude="106.4166641" altitude="1"/>
+  <place id="10454" country="Vietnam" name="Thai Binh" latitude="20.45" longitude="106.3333359" altitude="3"/>
+  <place id="10455" country="Vietnam" name="Thai Nguyen" latitude="21.5927778" longitude="105.8441696" altitude="32"/>
+  <place id="10456" country="Vietnam" name="Thanh Hoa" latitude="19.8" longitude="105.7666702" altitude="18"/>
+  <place id="10457" country="Vietnam" name="Thanh pho Ho Chi Minh" latitude="10.75" longitude="106.6666641" altitude="4"/>
+  <place id="10458" country="Vietnam" name="Tra Vinh" latitude="9.9347222" longitude="106.3452759" altitude="1"/>
+  <place id="10459" country="Vietnam" name="Tuy Hoa" latitude="13.0833333" longitude="109.3000031" altitude="2"/>
+  <place id="10460" country="Vietnam" name="Tuyen Quang" latitude="21.8233333" longitude="105.2180557" altitude="30"/>
+  <place id="10461" country="Vietnam" name="Uong Bi" latitude="21.0333333" longitude="106.7833328" altitude="37"/>
+  <place id="10462" country="Vietnam" name="Viet Tri" latitude="21.3019444" longitude="105.4308319" altitude="20"/>
+  <place id="10463" country="Vietnam" name="Vinh Long" latitude="10.25" longitude="105.9666672" altitude="1"/>
+  <place id="10464" country="Vietnam" name="Vinh Yen" latitude="21.31" longitude="105.5966644" altitude="18"/>
+  <place id="10465" country="Vietnam" name="Vung Tau" latitude="10.35" longitude="107.0666656" altitude="1"/>
+  <place id="10466" country="Vietnam" name="Yen Bai" latitude="21.7" longitude="104.8666687" altitude="46"/>
+  <place id="10467" country="Vietnam" name="Yen Vinh" latitude="18.6666667" longitude="105.6666641" altitude="10"/>
+  <place id="10468" country="Yemen" name="`Adan" latitude="12.7794444" longitude="45.0366669" altitude="7"/>
+  <place id="10469" country="Yemen" name="Al Hudaydah" latitude="14.7977778" longitude="42.9522209" altitude="18"/>
+  <place id="10470" country="Yemen" name="Al Mukalla" latitude="14.53" longitude="49.1313896" altitude="1"/>
+  <place id="10471" country="Yemen" name="Bajil" latitude="15.0666667" longitude="43.2833328" altitude="191"/>
+  <place id="10472" country="Yemen" name="Bayt al Faqih" latitude="14.5161111" longitude="43.3244438" altitude="125"/>
+  <place id="10473" country="Yemen" name="Dhi as Sufal" latitude="13.85" longitude="44.1166649" altitude="2192"/>
+  <place id="10474" country="Yemen" name="Hajjah" latitude="15.695" longitude="43.5974998" altitude="1717"/>
+  <place id="10475" country="Yemen" name="Ibb" latitude="13.9666667" longitude="44.1833344" altitude="1929"/>
+  <place id="10476" country="Yemen" name="Jawf al Maqbabah" latitude="13.8383333" longitude="45.8358345" altitude="895"/>
+  <place id="10477" country="Yemen" name="Lahij" latitude="13.0566667" longitude="44.8819427" altitude="145"/>
+  <place id="10478" country="Yemen" name="Sahar" latitude="15.3155556" longitude="44.3097229" altitude="2379"/>
+  <place id="10479" country="Yemen" name="Sanaa" latitude="15.3547222" longitude="44.206665" altitude="2245"/>
+  <place id="10480" country="Yemen" name="Sayyan" latitude="15.1713889" longitude="44.3247223" altitude="2452"/>
+  <place id="10481" country="Yemen" name="Ta`izz" latitude="13.5666667" longitude="44.0333328" altitude="1455"/>
+  <place id="10482" country="Yemen" name="Yarim" latitude="14.2972222" longitude="44.3802795" altitude="2623"/>
+  <place id="10483" country="Yemen" name="Zabid" latitude="14.195" longitude="43.3152771" altitude="80"/>
+  <place id="10484" country="Zambia" name="Chadiza" latitude="-14.0666667" longitude="32.4333344" altitude="1177"/>
+  <place id="10485" country="Zambia" name="Chama" latitude="-11.2" longitude="33.1666679" altitude="979"/>
+  <place id="10486" country="Zambia" name="Chambishi" latitude="-12.65" longitude="28.083334" altitude="1286"/>
+  <place id="10487" country="Zambia" name="Chibombo" latitude="-14.65" longitude="28.0666676" altitude="1149"/>
+  <place id="10488" country="Zambia" name="Chililabombwe" latitude="-12.3666667" longitude="27.833334" altitude="1353"/>
+  <place id="10489" country="Zambia" name="Chingola" latitude="-12.5333333" longitude="27.8500004" altitude="1363"/>
+  <place id="10490" country="Zambia" name="Chinsali" latitude="-10.55" longitude="32.0666656" altitude="1307"/>
+  <place id="10491" country="Zambia" name="Chipata" latitude="-13.6333333" longitude="32.6500015" altitude="1181"/>
+  <place id="10492" country="Zambia" name="Choma" latitude="-16.8166667" longitude="26.9833336" altitude="1325"/>
+  <place id="10493" country="Zambia" name="Chongwe" latitude="-15.35" longitude="28.7000008" altitude="1069"/>
+  <place id="10494" country="Zambia" name="Gwembe" latitude="-16.5" longitude="27.6166668" altitude="1217"/>
+  <place id="10495" country="Zambia" name="Isoka" latitude="-10.1333333" longitude="32.6333351" altitude="1480"/>
+  <place id="10496" country="Zambia" name="Kabompo" latitude="-13.6" longitude="24.2000008" altitude="1028"/>
+  <place id="10497" country="Zambia" name="Kabwe" latitude="-14.4357192" longitude="28.4442043" altitude="1203"/>
+  <place id="10498" country="Zambia" name="Kafue" latitude="-15.7666667" longitude="28.1833324" altitude="1008"/>
+  <place id="10499" country="Zambia" name="Kalabo" latitude="-14.9666667" longitude="22.6833324" altitude="1019"/>
+  <place id="10500" country="Zambia" name="Kalengwa" latitude="-13.4666667" longitude="25" altitude="1196"/>
+  <place id="10501" country="Zambia" name="Kalulushi" latitude="-12.8333333" longitude="28.083334" altitude="1270"/>
+  <place id="10502" country="Zambia" name="Kansanshi" latitude="-12.1" longitude="26.4333324" altitude="1444"/>
+  <place id="10503" country="Zambia" name="Kaoma" latitude="-14.7833333" longitude="24.7999992" altitude="1127"/>
+  <place id="10504" country="Zambia" name="Kapiri Mposhi" latitude="-13.9666667" longitude="28.6833324" altitude="1286"/>
+  <place id="10505" country="Zambia" name="Kaputa" latitude="-8.4666667" longitude="29.666666" altitude="940"/>
+  <place id="10506" country="Zambia" name="Kasama" latitude="-10.2" longitude="31.2000008" altitude="1241"/>
+  <place id="10507" country="Zambia" name="Kasempa" latitude="-13.45" longitude="25.833334" altitude="1264"/>
+  <place id="10508" country="Zambia" name="Kawambwa" latitude="-9.7833333" longitude="29.083334" altitude="1308"/>
+  <place id="10509" country="Zambia" name="Kitwe" latitude="-12.8166667" longitude="28.2000008" altitude="1213"/>
+  <place id="10510" country="Zambia" name="Limulunga" latitude="-15.1" longitude="23.1499996" altitude="1025"/>
+  <place id="10511" country="Zambia" name="Livingstone" latitude="-17.85" longitude="25.8666668" altitude="897"/>
+  <place id="10512" country="Zambia" name="Luangwa" latitude="-15.6166667" longitude="30.416666" altitude="314"/>
+  <place id="10513" country="Zambia" name="Luanshya" latitude="-13.1333333" longitude="28.3999996" altitude="1246"/>
+  <place id="10514" country="Zambia" name="Lukulu" latitude="-14.3833333" longitude="23.25" altitude="1071"/>
+  <place id="10515" country="Zambia" name="Lundazi" latitude="-12.3" longitude="33.1833344" altitude="1105"/>
+  <place id="10516" country="Zambia" name="Lusaka" latitude="-15.4166667" longitude="28.2833328" altitude="1277"/>
+  <place id="10517" country="Zambia" name="Luwingu" latitude="-10.2666667" longitude="29.8999996" altitude="1307"/>
+  <place id="10518" country="Zambia" name="Maamba" latitude="-17.3666667" longitude="27.1499996" altitude="881"/>
+  <place id="10519" country="Zambia" name="Mansa" latitude="-11.2" longitude="28.8833332" altitude="1228"/>
+  <place id="10520" country="Zambia" name="Mazabuka" latitude="-15.8666667" longitude="27.7666664" altitude="1102"/>
+  <place id="10521" country="Zambia" name="Mbala" latitude="-8.8333333" longitude="31.3833332" altitude="1622"/>
+  <place id="10522" country="Zambia" name="Mkushi" latitude="-13.6166667" longitude="29.3999996" altitude="1278"/>
+  <place id="10523" country="Zambia" name="Mongu" latitude="-15.25" longitude="23.1333332" altitude="1018"/>
+  <place id="10524" country="Zambia" name="Monze" latitude="-16.2833333" longitude="27.4833336" altitude="1103"/>
+  <place id="10525" country="Zambia" name="Mpika" latitude="-11.8333333" longitude="31.4500008" altitude="1520"/>
+  <place id="10526" country="Zambia" name="Mpongwe" latitude="-13.5333333" longitude="28.1499996" altitude="1199"/>
+  <place id="10527" country="Zambia" name="Mporokoso" latitude="-9.3833333" longitude="30.1333332" altitude="1384"/>
+  <place id="10528" country="Zambia" name="Mpulungu" latitude="-8.7666667" longitude="31.1333332" altitude="789"/>
+  <place id="10529" country="Zambia" name="Mufulira" latitude="-12.55" longitude="28.2333336" altitude="1250"/>
+  <place id="10530" country="Zambia" name="Mufumbwe" latitude="-13.6833333" longitude="24.7999992" altitude="1072"/>
+  <place id="10531" country="Zambia" name="Mumbwa" latitude="-14.9833333" longitude="27.0666676" altitude="1158"/>
+  <place id="10532" country="Zambia" name="Mungwi" latitude="-10.1666667" longitude="31.3833332" altitude="1292"/>
+  <place id="10533" country="Zambia" name="Mwense" latitude="-10.3833333" longitude="28.6833324" altitude="960"/>
+  <place id="10534" country="Zambia" name="Mwinilunga" latitude="-11.7333333" longitude="24.4333324" altitude="1385"/>
+  <place id="10535" country="Zambia" name="Nakambala" latitude="-15.8333333" longitude="27.7666664" altitude="1027"/>
+  <place id="10536" country="Zambia" name="Nakonde" latitude="-9.3333333" longitude="32.7666664" altitude="1319"/>
+  <place id="10537" country="Zambia" name="Namwala" latitude="-15.75" longitude="26.4500008" altitude="1008"/>
+  <place id="10538" country="Zambia" name="Nchelenge" latitude="-9.35" longitude="28.7333336" altitude="919"/>
+  <place id="10539" country="Zambia" name="Ndola" latitude="-12.9666667" longitude="28.6333332" altitude="1269"/>
+  <place id="10540" country="Zambia" name="Nyimba" latitude="-14.55" longitude="30.833334" altitude="637"/>
+  <place id="10541" country="Zambia" name="Petauke" latitude="-14.25" longitude="31.333334" altitude="939"/>
+  <place id="10542" country="Zambia" name="Samfya" latitude="-11.35" longitude="29.5499992" altitude="1155"/>
+  <place id="10543" country="Zambia" name="Senanga" latitude="-16.1166667" longitude="23.2666664" altitude="968"/>
+  <place id="10544" country="Zambia" name="Serenje" latitude="-13.2333333" longitude="30.2333336" altitude="1402"/>
+  <place id="10545" country="Zambia" name="Sesheke" latitude="-17.4666667" longitude="24.2999992" altitude="800"/>
+  <place id="10546" country="Zambia" name="Siavonga" latitude="-16.5333333" longitude="28.7166672" altitude="481"/>
+  <place id="10547" country="Zambia" name="Sinazongwe" latitude="-17.25" longitude="27.4666672" altitude="539"/>
+  <place id="10548" country="Zambia" name="Solwezi" latitude="-12.1833333" longitude="26.3999996" altitude="1373"/>
+  <place id="10549" country="Zambia" name="Zambezi" latitude="-13.55" longitude="23.1166668" altitude="1091"/>
+  <place id="10550" country="Zimbabwe" name="Banket" latitude="-17.3833333" longitude="30.3999996" altitude="1229"/>
+  <place id="10551" country="Zimbabwe" name="Beatrice" latitude="-18.2666667" longitude="30.8666668" altitude="1288"/>
+  <place id="10552" country="Zimbabwe" name="Beitbridge" latitude="-22.2166667" longitude="30" altitude="468"/>
+  <place id="10553" country="Zimbabwe" name="Bindura" latitude="-17.2963889" longitude="31.3297215" altitude="1130"/>
+  <place id="10554" country="Zimbabwe" name="Binga" latitude="-17.6166667" longitude="27.333334" altitude="371"/>
+  <place id="10555" country="Zimbabwe" name="Bulawayo" latitude="-20.15" longitude="28.583334" altitude="1353"/>
+  <place id="10556" country="Zimbabwe" name="Centenary" latitude="-16.8" longitude="31.1166668" altitude="1176"/>
+  <place id="10557" country="Zimbabwe" name="Chakari" latitude="-18.0666667" longitude="29.8500004" altitude="1095"/>
+  <place id="10558" country="Zimbabwe" name="Chegutu" latitude="-18.1333333" longitude="30.1499996" altitude="1166"/>
+  <place id="10559" country="Zimbabwe" name="Chimanimani" latitude="-19.8" longitude="32.8666649" altitude="1470"/>
+  <place id="10560" country="Zimbabwe" name="Chinhoyi" latitude="-17.3666667" longitude="30.2000008" altitude="1187"/>
+  <place id="10561" country="Zimbabwe" name="Chipinge" latitude="-20.2" longitude="32.6166649" altitude="1016"/>
+  <place id="10562" country="Zimbabwe" name="Chiredzi" latitude="-21.05" longitude="31.666666" altitude="438"/>
+  <place id="10563" country="Zimbabwe" name="Chirundu" latitude="-16.0333333" longitude="28.8500004" altitude="352"/>
+  <place id="10564" country="Zimbabwe" name="Chitungwiza" latitude="-17.9938889" longitude="31.0480556" altitude="1413"/>
+  <place id="10565" country="Zimbabwe" name="Chivhu" latitude="-19.0166667" longitude="30.8999996" altitude="1460"/>
+  <place id="10566" country="Zimbabwe" name="Concession" latitude="-17.3833333" longitude="30.9500008" altitude="1348"/>
+  <place id="10567" country="Zimbabwe" name="Dete" latitude="-18.6166667" longitude="26.8666668" altitude="1092"/>
+  <place id="10568" country="Zimbabwe" name="Dorowa Mining Lease" latitude="-19.0666667" longitude="31.75" altitude="890"/>
+  <place id="10569" country="Zimbabwe" name="Epworth" latitude="-17.89" longitude="31.1474991" altitude="1473"/>
+  <place id="10570" country="Zimbabwe" name="Esigodini" latitude="-20.3" longitude="28.9333324" altitude="1193"/>
+  <place id="10571" country="Zimbabwe" name="Filabusi" latitude="-20.5333333" longitude="29.2833328" altitude="1082"/>
+  <place id="10572" country="Zimbabwe" name="Glendale" latitude="-17.3605556" longitude="31.0597229" altitude="1143"/>
+  <place id="10573" country="Zimbabwe" name="Gokwe" latitude="-18.2166667" longitude="28.9333324" altitude="1227"/>
+  <place id="10574" country="Zimbabwe" name="Gwanda" latitude="-20.9333333" longitude="29" altitude="974"/>
+  <place id="10575" country="Zimbabwe" name="Gweru" latitude="-19.45" longitude="29.8166676" altitude="1425"/>
+  <place id="10576" country="Zimbabwe" name="Harare" latitude="-17.8177778" longitude="31.0447216" altitude="1481"/>
+  <place id="10577" country="Zimbabwe" name="Headlands" latitude="-18.2833333" longitude="32.0499992" altitude="1585"/>
+  <place id="10578" country="Zimbabwe" name="Hwange" latitude="-18.3666667" longitude="26.4833336" altitude="780"/>
+  <place id="10579" country="Zimbabwe" name="Insiza" latitude="-19.7833333" longitude="29.2000008" altitude="1427"/>
+  <place id="10580" country="Zimbabwe" name="Inyati" latitude="-19.6833333" longitude="28.8500004" altitude="1351"/>
+  <place id="10581" country="Zimbabwe" name="Kadoma" latitude="-18.35" longitude="29.916666" altitude="1126"/>
+  <place id="10582" country="Zimbabwe" name="Kamativi" latitude="-18.3166667" longitude="27.0666676" altitude="941"/>
+  <place id="10583" country="Zimbabwe" name="Kariba" latitude="-16.5166667" longitude="28.7999992" altitude="619"/>
+  <place id="10584" country="Zimbabwe" name="Karoi" latitude="-16.8166667" longitude="29.6833324" altitude="1241"/>
+  <place id="10585" country="Zimbabwe" name="Kwekwe" latitude="-18.9166667" longitude="29.8166676" altitude="1197"/>
+  <place id="10586" country="Zimbabwe" name="Lalapansi" latitude="-19.3333333" longitude="30.1833324" altitude="1493"/>
+  <place id="10587" country="Zimbabwe" name="Macheke" latitude="-18.15" longitude="31.8500004" altitude="1587"/>
+  <place id="10588" country="Zimbabwe" name="Madziwa" latitude="-16.9166667" longitude="31.5333328" altitude="1108"/>
+  <place id="10589" country="Zimbabwe" name="Marondera" latitude="-18.1833333" longitude="31.5499992" altitude="1692"/>
+  <place id="10590" country="Zimbabwe" name="Mashava" latitude="-20.05" longitude="30.4833336" altitude="969"/>
+  <place id="10591" country="Zimbabwe" name="Masvingo" latitude="-20.0833333" longitude="30.833334" altitude="1029"/>
+  <place id="10592" country="Zimbabwe" name="Mazowe" latitude="-17.5166667" longitude="30.9666672" altitude="1232"/>
+  <place id="10593" country="Zimbabwe" name="Mhangura" latitude="-16.9" longitude="30.1499996" altitude="1128"/>
+  <place id="10594" country="Zimbabwe" name="Mount Darwin" latitude="-16.7833333" longitude="31.583334" altitude="984"/>
+  <place id="10595" country="Zimbabwe" name="Murewa" latitude="-17.6469444" longitude="31.7775002" altitude="1363"/>
+  <place id="10596" country="Zimbabwe" name="Mutare" latitude="-18.9666667" longitude="32.6666679" altitude="1095"/>
+  <place id="10597" country="Zimbabwe" name="Mutoko" latitude="-17.4" longitude="32.2166672" altitude="1285"/>
+  <place id="10598" country="Zimbabwe" name="Mvuma" latitude="-19.2833333" longitude="30.5333328" altitude="1406"/>
+  <place id="10599" country="Zimbabwe" name="Mvurwi" latitude="-17.0333333" longitude="30.8500004" altitude="1484"/>
+  <place id="10600" country="Zimbabwe" name="Norton" latitude="-17.8833333" longitude="30.7000008" altitude="1360"/>
+  <place id="10601" country="Zimbabwe" name="Nyanga" latitude="-18.2166667" longitude="32.75" altitude="1738"/>
+  <place id="10602" country="Zimbabwe" name="Nyazura" latitude="-18.7166667" longitude="32.1666679" altitude="1220"/>
+  <place id="10603" country="Zimbabwe" name="Odzi" latitude="-18.9666667" longitude="32.3833351" altitude="1033"/>
+  <place id="10604" country="Zimbabwe" name="Penhalonga" latitude="-18.8833333" longitude="32.6833344" altitude="1108"/>
+  <place id="10605" country="Zimbabwe" name="Plumtree" latitude="-20.4833333" longitude="27.8166676" altitude="1374"/>
+  <place id="10606" country="Zimbabwe" name="Raffingora" latitude="-17.0333333" longitude="30.4333324" altitude="1090"/>
+  <place id="10607" country="Zimbabwe" name="Redcliff" latitude="-19.0333333" longitude="29.7833328" altitude="1211"/>
+  <place id="10608" country="Zimbabwe" name="Rusape" latitude="-18.5333333" longitude="32.1166649" altitude="1350"/>
+  <place id="10609" country="Zimbabwe" name="Shamva" latitude="-17.3155556" longitude="31.5705547" altitude="914"/>
+  <place id="10610" country="Zimbabwe" name="Shangani" latitude="-19.7833333" longitude="29.3666668" altitude="1355"/>
+  <place id="10611" country="Zimbabwe" name="Shurugwi" latitude="-19.6666667" longitude="30" altitude="1502"/>
+  <place id="10612" country="Zimbabwe" name="Victoria Falls" latitude="-17.9333333" longitude="25.833334" altitude="983"/>
+  <place id="10613" country="Zimbabwe" name="Zvishavane" latitude="-20.3333333" longitude="30.0333328" altitude="912"/>
+  <place id="10614" country="Zimbabwe" name="Zvishavane District" latitude="-20.25" longitude="30.083334" altitude="950"/>
 </places>
